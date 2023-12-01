@@ -1,0 +1,7 @@
+data
+checkpoints/*
+
+!checkpoints/readme.txt
+
+__hprc_runner/*
+__irrelevant_video_prompt_exp.py
