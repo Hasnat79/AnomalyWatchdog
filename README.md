@@ -43,4 +43,4 @@ For the videos that were detected as unusual, ask for the “why? Question” / 
   - F1 Score: 0.75
   - AUC-ROC: 0.52
   - Average Precision (AP): 0.63
-    ![Alt text](results/prompt2/roc_curve.png)
+    ![Alt text](results/prompt2/_roc_curve.png)
