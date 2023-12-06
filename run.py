@@ -213,6 +213,8 @@ def main():
                 pred_failure = 1
             elif "no" in llm_message.lower():
                 pred_failure = 0
+            else: 
+                pred_failure = 'na'
 
 
             _res = {
@@ -229,7 +231,7 @@ def main():
 
             pbar.update(1)
     # print(results)
-    output_file_name = f"{results_dir}/prompt1/{args.start}_{args.end}_results.json"
+    output_file_name = f"{results_dir}/prompt2/{args.start}_{args.end}_results.json"
     write_json(output_file_name, results)
 
 
