@@ -1,4 +1,6 @@
-data
+data/oops_dataset
+data/*.tar.gz
+
 checkpoints/*
 
 !checkpoints/readme.txt
