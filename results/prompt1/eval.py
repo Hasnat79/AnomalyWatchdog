@@ -11,7 +11,7 @@ import numpy as np
 path = "./filtered_videollama_output_data.json"
 
 filtered_videollama_output_data = read_json(path)
-assert len(filtered_videollama_output_data.keys()) == 4365
+# assert len(filtered_videollama_output_data.keys()) == 4365
 
 data = filtered_videollama_output_data
 

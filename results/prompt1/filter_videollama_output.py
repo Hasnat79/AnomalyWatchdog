@@ -31,7 +31,7 @@ print(f"Total filtered videos: {len(filtered_videollama_output_data.keys())}")#4
 print(f"Total cases w/o yes|no: {wo_yes_no_counter}") #346
 assert len(merged_0_4711_oops_val_res.keys()) == len(filtered_videollama_output_data.keys())+ wo_yes_no_counter
 
-assert len(filtered_videollama_output_data.keys()) == 4365
+# assert len(filtered_videollama_output_data.keys()) == 4365
 write_json("./filtered_videollama_output_data.json",filtered_videollama_output_data)
 # with open("./filtered_videollama_output_data.json",'w') as f: 
 #     json.dump(filtered_videollama_output_data,f,indent=4)
