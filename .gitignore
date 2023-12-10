@@ -7,3 +7,4 @@ checkpoints/*
 
 __hprc_runner/*
 __irrelevant_video_prompt_exp.py
+results/README.md

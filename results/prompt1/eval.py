@@ -1,86 +1,95 @@
+import json
 import os
-from json_utils.json_utils import read_json,write_json
-import matplotlib.pyplot as plt
-from sklearn.metrics import precision_recall_curve, auc, roc_curve, roc_auc_score, average_precision_score
+from sklearn.metrics import precision_recall_fscore_support
+from matplotlib import pyplot as plt
+from sklearn.metrics import roc_auc_score
+from sklearn.metrics import roc_curve
+
+def auc_roc_curve(filtered_res):
+    # saves a auc_roc_curve plot in the current working folder
+    # each data dict has a key called 'pred_failure'
+    ground_truth = [value['gt_failure'] for value in filtered_res.values()]
+    predictions = [value['pred_failure'] for value in filtered_res.values()]
+    
+    tp = sum(1 for entry_id, entry in filtered_res.items() if entry['pred_failure'] == 1 and entry['gt_failure'] == 1)
+    tn = sum(1 for entry_id, entry in filtered_res.items () if entry['pred_failure'] == 0 and entry['gt_failure'] == 0)
+    
+    print(f"tp: {tp}")
+    print(f"tn: {tn}")
+    # calculate precision, recall and f1 score
+    precision, recall, f1_score, support = precision_recall_fscore_support(ground_truth, predictions, average='binary')
+    auc_roc_curve = roc_auc_score(ground_truth, predictions)
+    print(f"auc_roc_curve: {auc_roc_curve}")
+    saves_auc_roc_curve_plot(ground_truth,predictions,auc_roc_curve, "./auc_roc_")
+
+def saves_auc_roc_curve_plot(ground_truth,predictions,auc, file_name):
+    fpr, tpr, thresholds = roc_curve(ground_truth, predictions, pos_label=1)
+    # saves a auc_roc_curve plot in the current working folder
+    plt.figure()
+    plt.plot(fpr, tpr, label='ROC curve (area = %0.2f)' % auc)
+    plt.plot([0, 1], [0, 1], 'k--')
+    plt.xlim([0.0, 1.0])
+    plt.ylim([0.0, 1.05])
+    plt.xlabel('False Positive Rate')
+    plt.ylabel('True Positive Rate')
+    plt.title('Receiver operating characteristic example')
+    plt.legend(loc="lower right")
+    plt.savefig(file_name + ".png")
+    plt.close()
+def files_merger(dir_name):
+    # takes a directory name and merger all json files in that directory according to the number_ of file names
+    files = os.listdir(dir_name)
+    files = [file for file in files if file.endswith(".json")]
+    files.sort(key=lambda x: int(x.split(".")[0].split("_")[0]))
+    # print(files)
+    merged_results = {}
+    for file in files:
+        with open(dir_name + "/" + file, "r") as f:
+            data = json.load(f)
+        # with open(dir_name + "/" + file.split(".")[0] + ".json", "w") as f:
+        #     json.dump(data, f, indent=4)
+        # os.remove(dir_name + "/" + file)
+
+        #updating the merged_results dictionary with data
+        for key, value in data.items():
+            merged_results[key] = value
+
+    return merged_results
+     
+
+def filter_results(merged_res_dict):
+    # each data dict has a key called 'pred_failure'
+    # this function filters out the results dictionary that has a key called 'pred_failure': 'na'
+    filtered_results = {}
+    for key, value in merged_res_dict.items():
+        if value['pred_failure']!= 'na':
+            filtered_results[key] = value
+    print(len(filtered_results))
+    return filtered_results
+
+def calculate_precision_recall_f1(filtered_res):
+    # extract ground truth and predictions
+    ground_truth = [value['gt_failure'] for value in filtered_res.values()]
+    predictions = [value['pred_failure'] for value in filtered_res.values()]
+    # calculate precision, recall and f1 score
+    precision, recall, f1_score, support = precision_recall_fscore_support(ground_truth, predictions, average='binary')
+    # print(f"precision: {precision}, recall: {recall}, f1_score: {f1_score}, support: {support}")
+    print(f"precision: {round(precision,2)}, recall: {round(recall,2)}, f1_score: {round(f1_score,2)}, support: {support}")
+    return precision, recall, f1_score, support
 
 
-import numpy as np 
+merged_res = files_merger("./")
+filtered_res = filter_results(merged_res) # total videos after filtering: 4356
+auc_roc_curve(filtered_res)
 
 
-
-path = "./filtered_videollama_output_data.json"
-
-filtered_videollama_output_data = read_json(path)
-# assert len(filtered_videollama_output_data.keys()) == 4365
-
-data = filtered_videollama_output_data
-
-gt_labels = []
-pred_labels = []
-
-for entry_id, entry_data in data.items():
-    gt_labels.append(entry_data["gt_failure"])
-    pred_labels.append(entry_data["pred_failure"])
+calculate_precision_recall_f1(filtered_res)
+# tp: 2528
+# tn: 117
+# auc_roc_curve: 0.5042364447284031
+# precision: 0.62, recall: 0.94, f1_score: 0.75, support: None
 
 
-data = filtered_videollama_output_data
-
-total_cases = len(data)
-tp = sum(1 for entry_id, entry in data.items() if entry['gt_failure'] == 1 and entry['pred_failure'] == 1)
-fp = sum(1 for entry_id, entry in data.items() if entry['gt_failure'] == 0 and entry['pred_failure'] == 1)
-fn = sum(1 for entry_id, entry in data.items() if entry['gt_failure'] == 1 and entry['pred_failure'] == 0)
-tn = sum(1 for entry_id, entry in data.items() if entry['gt_failure'] == 0 and entry['pred_failure'] == 0)
-
-print(f"tp: {tp}")
-print(f"tn: {tn}")
-precision = tp / (tp + fp) if (tp + fp) > 0 else 0
-recall = tp / (tp + fn) if (tp + fn) > 0 else 0
-f1 = 2 * (precision * recall) / (precision + recall) if (precision + recall) > 0 else 0
-
-# Calculate mean average precision (meanAP) - Assuming precision and recall are available for each data point
-# You may need to modify this part based on how you compute precision and recall in your specific case
-# precision_recall_pairs = [(entry['precision'], entry['recall']) for entry in data]
-# mean_ap = sum(precision for precision, _ in precision_recall_pairs) / len(precision_recall_pairs)
-
-print("Total Cases:", total_cases)
-print("Precision:", round(precision,2))
-print("Recall:", round(recall,2))
-print("F1 Score:", round(f1,2))
-# Calculate AUC-ROC
-auc_roc = roc_auc_score(gt_labels, pred_labels)
-print("AUC-ROC:", round(auc_roc,2))
-
-# Calculate Average Precision (AP)
-average_precision = average_precision_score(gt_labels, pred_labels)
-print("Average Precision (AP):", round(average_precision,2))
-
-# Calculate ROC curve
-fpr, tpr, _ = roc_curve(gt_labels, pred_labels)
-# Calculate Precision-Recall curve
-precision, recall, _ = precision_recall_curve(gt_labels, pred_labels)
-
-# Plot ROC curve
-plt.figure(figsize=(8, 8))
-plt.plot(fpr, tpr, color='darkorange', lw=2, label=f'AUC-ROC = {auc_roc:.2f}')
-plt.plot([0, 1], [0, 1], color='navy', lw=2, linestyle='--')
-plt.xlabel('False Positive Rate')
-plt.ylabel('True Positive Rate')
-plt.title('ROC Curve')
-plt.legend(loc='lower right')
-plt.grid(True)
-plt.savefig('roc_curve.png')
-plt.show()
-
-
-
-# tp: 2350
-# tn: 113
-# Total Cases: 4041
-# Precision: 0.63
-# Recall: 0.93
-# F1 Score: 0.75
-# AUC-ROC: 0.5
-# Average Precision (AP): 0.63
 
 
 
