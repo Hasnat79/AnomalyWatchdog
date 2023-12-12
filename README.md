@@ -34,8 +34,8 @@ auc_roc_curve: 0.5183118745612152
 precision: 0.63, recall: 0.76, f1_score: 0.69, support: None -->
 | Prompt|filtered videos|tp|tn|Precision | Recall | F1| Auc-roc|
 | ---|---  |---|--- |--- |---|---|---|
-|1.  "Does this video contain any unusual activities? Please reply Yes or No only."|4317/4711 | 2025|458 |0.63|0.76|0.69|0.52|
-|2.  "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only."|4290/4711|1765|650 |0.64|0.66|0.65|0.53|
+|1.  "Does this video contain any unusual activities? Please reply Yes or No only."|3518/4711 | 2024|131 |0.63| 0.92|0.75|0.51|
+|2.  "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only."|3083/4711|1759|161 |0.64|0.9|0.75|**0.52**|
 
 <!-- precision: 0.64, recall: 0.66, f1_score: 0.65, support: None
 tp: 1765
