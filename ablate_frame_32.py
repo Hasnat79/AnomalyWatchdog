@@ -228,7 +228,7 @@ def main():
             
             pbar.update(1)
     # print(results)
-    output_file_name = f"{results_dir}/Ablate_frame_rate/16/{args.start}_{args.end}_results.json"
+    output_file_name = f"{results_dir}/Ablate_frame_rate/32/{args.start}_{args.end}_results.json"
     write_json(output_file_name, results)
 
 
