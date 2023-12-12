@@ -234,6 +234,7 @@ class Chat:
 
         msg = ""
         if isinstance(video_path, str):  # is a video path
+            
             ext = os.path.splitext(video_path)[-1].lower()
             print(video_path)
             # image = self.vis_processor(image).unsqueeze(0).to(self.device)
@@ -285,7 +286,7 @@ class Chat:
             # image = self.vis_processor(image).unsqueeze(0).to(self.device)
             video, msg = load_video(
                 video_path=video_path,
-                n_frms=8,
+                n_frms=16,
                 height=224,
                 width=224,
                 sampling ="uniform", return_msg = True

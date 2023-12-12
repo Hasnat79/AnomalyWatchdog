@@ -226,7 +226,7 @@ class Registry:
 
     # @classmethod
     # def get_trainer_class(cls, name):
-    #     return cls.mapping["trainer_name_mapping"].get(name, None)
+    #     return cls.mapping["trainer_name_mapping"]./mnt/workspace/ckpt-------name, None)
 
     @classmethod
     def get_builder_class(cls, name):

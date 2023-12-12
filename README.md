@@ -49,3 +49,10 @@ auc_roc_curve: 0.5311649750777898 -->
     <img src="results/Ablate_vis_only/prompt_2/auc_roc_.png" alt="Image 2" width="100%">
   </div>
 </div>
+
+
+## Experiment table 3 (Prompt2 + visual only (8 vs 16 frames)
+| Prompt|filtered videos|tp|tn|Precision | Recall | F1| Auc-roc|
+| ---|---  |---|--- |--- |---|---|---|
+|2.  "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only."|3083/4711|1759|161 |0.64|0.9|0.75|**0.52**|
+|2.  "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only."|2636/4711|1368|192 |0.63|0.83|0.72|0.51|

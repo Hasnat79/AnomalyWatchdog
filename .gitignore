@@ -8,3 +8,7 @@ checkpoints/*
 __hprc_runner/*
 __irrelevant_video_prompt_exp.py
 results/README.md
+*/__pycache__/*
+
+video_llama/common/__pycache__/registry.cpython-39.pyc
+video_llama/processors/__pycache__/video_processor.cpython-39.pyc

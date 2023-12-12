@@ -20,6 +20,7 @@ import random as rnd
 
 
 MAX_INT = registry.get("MAX_INT")
+print(f"MAX_INT: {MAX_INT}")
 decord.bridge.set_bridge("torch")
 
 def load_video(video_path, n_frms=MAX_INT, height=-1, width=-1, sampling="uniform", return_msg = False):
@@ -30,7 +31,6 @@ def load_video(video_path, n_frms=MAX_INT, height=-1, width=-1, sampling="unifor
     start, end = 0, vlen
 
     n_frms = min(n_frms, vlen)
-
     if sampling == "uniform":
         indices = np.arange(start, end, vlen / n_frms).astype(int).tolist()
     elif sampling == "headtail":
@@ -53,6 +53,7 @@ def load_video(video_path, n_frms=MAX_INT, height=-1, width=-1, sampling="unifor
     sec = ", ".join([str(round(f / fps, 1)) for f in indices])
     # " " should be added in the start and end
     msg = f"The video contains {len(indices)} frames sampled at {sec} seconds. "
+    print(f"inside video processor: {msg}")
     return frms, msg
 
 
