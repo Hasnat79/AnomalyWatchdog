@@ -18,7 +18,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is nothing unusual about this video. It depicts a man riding an electric cart with a green and orange cart behind him on the grass in a park. There are also several parked cars in the park, as well as a white dog in one frame. The video starts with the man driving the cart, followed by the same scene with the man riding the cart and a yellow motorcycle behind him. Throughout the video, there are various objects, such as grass, cars, and a park, in the background. The only unusual feature is a motorcycle in the second and seventh frames. However, this motorcycle does not play a significant role in the video.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "945": {
         "video_path": "./data/oops_dataset/oops_video/val/Don't Rock the Boat - Throwback Fails (July 2017)48.mp4",
@@ -53,14 +53,14 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video depicts a man playing with a baby elephant in Thailand. There is no unusual activity in the video. However, the elephant seems to be happy and enjoying the interaction with the man. There are also other animals in the video, including a black horse, a pig, and a small black and white dog. In the beginning of the video, a young boy is seen sitting next to an elephant.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "950": {
         "video_path": "./data/oops_dataset/oops_video/val/Don't Rock the Boat - Throwback Fails (July 2017)54.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is no unusual activity in the video. It shows a group of people playing different sports, dancing, and running around a large room, but there is nothing out of the ordinary.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "951": {
         "video_path": "./data/oops_dataset/oops_video/val/Don't Rock the Boat - Throwback Fails (July 2017)55.mp4",
@@ -74,7 +74,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video is a collection of several frames containing a trail of garbage on a road, a river, and a forest. It does not contain any unusual activities. However, the video does show trash floating on water, which is an unusual sight.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "953": {
         "video_path": "./data/oops_dataset/oops_video/val/Don't Rock the Boat - Throwback Fails (July 2017)57.mp4",
@@ -102,7 +102,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video contains a lot of unusual activities. In the first frame, we see a man skateboarding on a ramp. In the next frame, there are several people in a city park, including a boy holding a skateboard, a man on a skateboard, and a man in a blue shirt on a skateboard. Then, we see a man on a skateboard doing tricks, and another man riding a bike. In the next frame, a man is riding a bike while other people are in the park. Finally, there are several people in the park, including a young man and a man on a skateboard, as well as a person sitting on a bench and a woman in a blue shirt. There are also objects such as a trash can, a black box, and a person's backpack. Overall, it seems like a fun day at the park with a lot of people doing various activities.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "957": {
         "video_path": "./data/oops_dataset/oops_video/val/Don't Rock the Boat - Throwback Fails (July 2017)63.mp4",
@@ -123,14 +123,14 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is no unusual activity in this video. It only shows black and white cats looking at birds on the ground outside through a window. The window might be the most unique aspect of this video.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "960": {
         "video_path": "./data/oops_dataset/oops_video/val/Don't Rock the Boat - Throwback Fails (July 2017)68.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is an unusual activity of a man and his dog in a snowy area. The dog is wearing a blue coat.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "961": {
         "video_path": "./data/oops_dataset/oops_video/val/Don't Rock the Boat - Throwback Fails (July 2017)70.mp4",
@@ -151,7 +151,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video doesn't contain any unusual activities as it mainly shows a young man and woman jumping on a trampoline and doing various tricks. However, one unusual thing is the parked car in some of the frames. It's not clear why the car is parked there, but it's present throughout the video.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "964": {
         "video_path": "./data/oops_dataset/oops_video/val/Don't Rock the Boat - Throwback Fails (July 2017)73.mp4",
@@ -200,14 +200,14 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video contains a group of young women and men standing on a boat while wearing swimsuits. It is not unusual to see people on a boat wearing swimsuits, but it can be unusual to see young women and men standing together on a boat in swimsuits, especially if they are wearing beachwear in a body of water, such as a lake.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "971": {
         "video_path": "./data/oops_dataset/oops_video/val/Don't Rock the Boat - Throwback Fails (July 2017)80.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video does not contain any unusual activities. It shows various scenes of a horseback riding competition with a lot of people riding in it. There are also some young people playing with a toy car and a few people riding on a tricycle. However, there are no instances of unusual activities.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "972": {
         "video_path": "./data/oops_dataset/oops_video/val/Don't Rock the Boat - Throwback Fails (July 2017)81.mp4",
@@ -256,7 +256,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video does not contain any unusual activities, and it appears to be a regular video. Can you tell me more about the objects in the video?",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "979": {
         "video_path": "./data/oops_dataset/oops_video/val/Don't Rock the Boat - Throwback Fails (July 2017)89.mp4",
@@ -291,7 +291,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is no unusual activity in this video. It shows a young man skateboarding in a skate park with another person. The people are wearing different clothing, and one person is holding a bag. There is also a skateboard ramp in the video, and there are various objects and trees visible in the background. The skateboarders are skateboarding on a ramp, and one person is sitting on top of a green and brown trash can.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "984": {
         "video_path": "./data/oops_dataset/oops_video/val/Drop On In! - Fails of the Week (June 2018) _ FailArmy1.mp4",
@@ -340,28 +340,28 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in the video. The video shows a Siamese cat playing with a blue bag in a backyard or a kitchen of a house, and then a cat jumping into a blue bag on a porch or balcony. Then, the cat jumps into another blue bag on the ground and the same blue bag is shown again with different objects in it. In the last frame, a cat jumps into a blue plastic container on the ground.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "991": {
         "video_path": "./data/oops_dataset/oops_video/val/Drop On In! - Fails of the Week (June 2018) _ FailArmy16.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "Sure. In the video, I see cars moving on a highway with a dark cloudy sky, a car is driving on a highway with traffic on the road, and a car is driving on a busy highway in traffic. It's a pretty normal scene but there's something interesting about it.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "992": {
         "video_path": "./data/oops_dataset/oops_video/val/Drop On In! - Fails of the Week (June 2018) _ FailArmy17.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in the video. The video shows a family having a good time in their backyard. They are enjoying a day together with their small child playing with a snow cone, having fun, and enjoying each other's company.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "993": {
         "video_path": "./data/oops_dataset/oops_video/val/Drop On In! - Fails of the Week (June 2018) _ FailArmy18.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is no unusual activity in this video.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "994": {
         "video_path": "./data/oops_dataset/oops_video/val/Drop On In! - Fails of the Week (June 2018) _ FailArmy19.mp4",
@@ -382,7 +382,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video does not contain any unusual activities. It only shows the usual movements of people walking inside and outside an apartment building. There is also a woman standing in the apartment, but that is not unusual. There is also a store in the apartment with a white sign on the wall.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "997": {
         "video_path": "./data/oops_dataset/oops_video/val/Drop On In! - Fails of the Week (June 2018) _ FailArmy21.mp4",
@@ -396,7 +396,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is a young man in the video who is jumping and running through the store, but there are no unusual activities in this video. The video mainly shows a person jumping and running around the store.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "999": {
         "video_path": "./data/oops_dataset/oops_video/val/Drop On In! - Fails of the Week (June 2018) _ FailArmy24.mp4",
@@ -410,7 +410,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video does not contain any unusual activities. It mainly features a group of young people celebrating a birthday by cutting cakes at a table. Some of the frames also show cakes with candles on top.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1001": {
         "video_path": "./data/oops_dataset/oops_video/val/Drop On In! - Fails of the Week (June 2018) _ FailArmy29.mp4",
@@ -445,7 +445,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video does not contain any unusual activities that I have observed. However, it is a unique video showcasing various extreme and adrenaline-filled experiences of skateboarding, snowboarding, and surfing.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1006": {
         "video_path": "./data/oops_dataset/oops_video/val/Drop On In! - Fails of the Week (June 2018) _ FailArmy8.mp4",
@@ -480,7 +480,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video shows a young woman swimming underwater in a blue pool. In the first frame, we can see the woman's back as she is swimming against the current. In the second frame, we can see the woman's body in the water, but it's difficult to see her face. In the third frame, we can see a woman wearing a bathing suit in the water. In the fourth frame, we can see a woman with a blonde haircut swimming in a blue pool. In the fifth frame, we can see a woman swimming in a blue pool as she looks around. In the sixth frame, we can see a woman swimming in a blue pool as she looks up. In the seventh frame, we can see a woman swimming in a blue pool, and in the eighth frame, we can see the woman's face as she is swimming in a blue pool. Throughout the video, there are no unusual activities.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1011": {
         "video_path": "./data/oops_dataset/oops_video/val/Expensive Fails - That's Going To Cost You! (July 2017)13.mp4",
@@ -501,7 +501,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video contains various activities, such as women sitting at a table in a cafe, talking on the phone, and drinking water. There are no unusual activities. However, the video shows a group of young women, mostly with blonde hair, interacting and talking together at a table.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1014": {
         "video_path": "./data/oops_dataset/oops_video/val/Expensive Fails - That's Going To Cost You! (July 2017)16.mp4",
@@ -515,7 +515,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "I don't see any unusual activities in this video. It is mainly about a man looking at a camera while standing in a room with a window, a mirror, and some other objects in the background. There are some details provided in each frame, but there is nothing unusual in the video.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1016": {
         "video_path": "./data/oops_dataset/oops_video/val/Expensive Fails - That's Going To Cost You! (July 2017)18.mp4",
@@ -529,7 +529,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video contains a fishing scene with people, fishing rods, boats, and water. Some people appear in the video frame by frame, and the video seems to capture a fishing trip at a lake or river.  There are no unusual activities observed.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1018": {
         "video_path": "./data/oops_dataset/oops_video/val/Expensive Fails - That's Going To Cost You! (July 2017)2.mp4",
@@ -571,28 +571,28 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in this video. The video shows an aerial view of a car driving on a grassy hillside, driving over a paved road, parked in front of a house, and parked on a paved road.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1024": {
         "video_path": "./data/oops_dataset/oops_video/val/Expensive Fails - That's Going To Cost You! (July 2017)30.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video shows a car crashed against a wall, as it was parked outside a parking lot on a street. A black car was parked by a metal fence, and it is in a place where the grass is overgrown. There is a sign that says \"no parking\", and the car has damage on the side. The video also shows the street with a lot of trash and debris scattered around. There is a parked black truck and a sign in the grass. \n\nSo, it can be said that the video doesn't show any unusual activities. There are no cars driving on the street or other people in the vicinity. However, the location where the car is parked and the state of the car are unusual. Additionally, there are objects and trash scattered around the street, which adds to the overall unusual atmosphere of the video.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1025": {
         "video_path": "./data/oops_dataset/oops_video/val/Expensive Fails - That's Going To Cost You! (July 2017)33.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "I would say that this video does not contain any unusual activities. It mostly depicts shots of various objects and scenes inside a pharmacy, including products for sale, people shopping, and different color walls and floors.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1026": {
         "video_path": "./data/oops_dataset/oops_video/val/Expensive Fails - That's Going To Cost You! (July 2017)34.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video does not contain any unusual activities or out-of-the-ordinary occurrences. It simply shows the interactions of people and nature, such as a couple getting married under a bridge over a stream with a waterfall, and a man and woman standing on the edge of a small river.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1027": {
         "video_path": "./data/oops_dataset/oops_video/val/Expensive Fails - That's Going To Cost You! (July 2017)35.mp4",
@@ -627,7 +627,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video does not contain any unusual activities. It only shows a construction site and various structures and machines, including a large concrete wall, a concrete drain, a concrete pipe, a yellow wall, a red and green light, a crane, a pump, a crane hook, and a construction site.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1032": {
         "video_path": "./data/oops_dataset/oops_video/val/Expensive Fails - That's Going To Cost You! (July 2017)4.mp4",
@@ -676,7 +676,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video does contain several unusual activities. It features a sports car with a broken rear glass, which is not a typical sight. Additionally, a car with a shattered window is also shown, along with a car with an open window. The video also captures a truck with a shattered windshield and a car with a shattered rear window. Finally, there is a car with a shattered rear window and a car with a shattered windshield.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1039": {
         "video_path": "./data/oops_dataset/oops_video/val/Expensive Fails - That's Going To Cost You! (July 2017)49.mp4",
@@ -697,7 +697,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is no unusual activity in this video. The video shows a man and a woman standing next to a white car on a parking lot. In the first frame, a young man is standing on the hood of the car with his foot on the trunk. In the second frame, the same young man is standing on the hood of the same car with a black and white umbrella in the background. In the third frame, the man is standing next to the car with a black and white umbrella in the background. In the fourth frame, the man is standing on the hood of the car again with a man wearing a white shirt. In the fifth frame, the man is standing on the hood of the car with a black and white umbrella in the background. In the sixth frame, a person is standing next to a white car parked on a street. In the seventh frame, a young man is standing next to a white car on a parking lot. In the eighth frame, the same young man is standing next to the same white car on a parking lot.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1042": {
         "video_path": "./data/oops_dataset/oops_video/val/Expensive Fails - That's Going To Cost You! (July 2017)51.mp4",
@@ -746,7 +746,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "Sure, the video contains several unusual activities. In the first frame, we see a group of people gathered in a living room. They are playing a game and singing together, which is unusual. Then, in the second frame, we see a woman dancing with a man while drinking beer in a living room. This is an unusual activity since it is a private house, and most people wouldn't dance in a house without permission. In the third frame, we see a woman dancing in a living room, and it is also unusual since it is a private house. In the fourth frame, we see a woman drinking a beer while standing in a living room, which is not common.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1049": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Does That Sheep Have Sunglasses  (Ep. 8)103.mp4",
@@ -767,7 +767,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is an unusual activity, but it is not specific to this video. The video depicts a woman, presumably a football player, wearing a hat while holding a glass of wine and screaming while sitting in a car at night.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1052": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Does That Sheep Have Sunglasses  (Ep. 8)106.mp4",
@@ -802,7 +802,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in this video. It shows a small white dog sitting on a brown couch with a blue blanket and a brown couch pillow. The dog appears to be looking around or resting in the blue blanket.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1057": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Does That Sheep Have Sunglasses  (Ep. 8)113.mp4",
@@ -823,7 +823,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video does not contain any unusual activities. The video shows a couple of dogs sitting on the porch, a little dog in a red dress, a big dog in a red suit, and a dog wearing a red sweater playing with a toy. The video also shows a little girl in a green jacket, a boy in a blue shirt, and a dog wearing a red sweater. Additionally, a little girl in a yellow shirt is also visible in the video.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1060": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Does That Sheep Have Sunglasses  (Ep. 8)116.mp4",
@@ -837,7 +837,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video does not contain any unusual activities. However, it contains several objects that are unusual in some way, such as a cat sitting on a blanket, a dog sitting in a room, and a little dog with a big paw. Additionally, there is a chair with a black and white plaid blanket on it, and a brown leather couch in the background. The video also features a white wooden chair and a brown wooden table.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1062": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Does That Sheep Have Sunglasses  (Ep. 8)118.mp4",
@@ -851,7 +851,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video does not contain any unusual activities. However, it does have some interesting moments that include a black dog and a white pug sitting on the floor, a black pug sitting on the floor with its tongue hanging out, and a brown pug sitting on the floor with its tongue sticking out.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1064": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Does That Sheep Have Sunglasses  (Ep. 8)12.mp4",
@@ -928,7 +928,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are some unusual activities in the video. For instance, in some frames, a man is walking around a room, while in other frames, he is standing in front of a doorway. In one of the frames, a man is dancing in a room. There are also instances of a man standing in a kitchen, standing in a hallway, and a man walking down a hallway. Additionally, a man is standing in front of a doorway in another frame, while another man is standing in the kitchen in another frame. Some of the unusual activities include a man holding a phone in one of the frames, while in another, he is standing in front of a doorway with a white shirt on. In another frame, a man is standing with a phone in his hand.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1075": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Does That Sheep Have Sunglasses  (Ep. 8)32.mp4",
@@ -963,14 +963,14 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video contains a variety of scenes, including a person walking, a door opening, and a person getting up from the floor. There are also several objects such as a couch, a table, and a chair that can be seen in the different frames. In some frames, there is a window visible, but in other frames, there is a brown brick wall. The scene in some frames is dark, while others are bright. Overall, there is no unusual activity in the video, but it does show different scenes of a home.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1080": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Does That Sheep Have Sunglasses  (Ep. 8)38.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is no unusual activity in this video. It only shows various scenes of a water feature or swimming pool and its surroundings.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1081": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Does That Sheep Have Sunglasses  (Ep. 8)45.mp4",
@@ -998,7 +998,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video contains a variety of activities including a woman standing in a kitchen, a man holding an orange, a black cow being fed by a hand, and people in a supermarket. However, there is no unusual activity in the video.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1085": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Does That Sheep Have Sunglasses  (Ep. 8)50.mp4",
@@ -1012,7 +1012,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is no unusual activity in this video, but I can see a boy playing with a green and white watermelon on a table. He is using a blue and green shirt to hold onto the watermelon, and there is also a brown bag of groceries on the table. Additionally, there is a man sitting on a bed, wearing a grey and white shirt, and there is a brown couch in the background.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1087": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Does That Sheep Have Sunglasses  (Ep. 8)53.mp4",
@@ -1033,7 +1033,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in the video. However, we can observe the following objects and actions in the video - men playing in the rain, a table, a white table, a black table, a white plastic table, a red and black plastic table, a pink plastic table, a white plastic table with a red top, a green table, a green table with white, green table with white and red, and a red and green table. We also see some men playing basketball, throwing a ball in a parking lot, and riding a skateboard. Overall, the video showcases some exciting and sporty scenes in a light and rainy atmosphere.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1090": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Does That Sheep Have Sunglasses  (Ep. 8)56.mp4",
@@ -1075,7 +1075,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video does not contain any unusual activities that I can spot. However, I can describe the details in each frame to help you better understand the situation.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1096": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Does That Sheep Have Sunglasses  (Ep. 8)63.mp4",
@@ -1103,7 +1103,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are several unusual activities in the video. In the first frame, a man is practicing archery with a bow and arrow, which is not a typical activity. In the second frame, a man is wielding a large wooden hammer while playing golf. In the fifth frame, there is a person using a machete to chop wood, which is another unusual activity. The eighth frame shows a person using a hatchet to chop wood, which is even more unusual. Finally, in the last frame, a man is cutting wood with a long stick, which is not a typical activity.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1100": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Does That Sheep Have Sunglasses  (Ep. 8)68.mp4",
@@ -1117,7 +1117,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video does not contain any unusual activities, but it does show a girl sleeping in a bed with her head covered in a pillow and a blanket on her chest. However, it also shows her sitting on a bed with her face covered, and a girl laying on her stomach. The video also shows different objects such as a pillow, a blanket, a pillow, a stuffed animal, a couch, and a dog.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1102": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Does That Sheep Have Sunglasses  (Ep. 8)70.mp4",
@@ -1173,14 +1173,14 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video contains several unusual activities, including a person with a backpack playing soccer, a man riding a bike, and a boy standing on a table. There are also multiple people walking or running through the area, and a man sitting at a table in some frames. However, the video does not contain any outstandingly unusual activities.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1110": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Does That Sheep Have Sunglasses  (Ep. 8)82.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video contains a man wearing a brown leather jacket with sunglasses, sitting in the backseat of a car, wearing black glasses while eating a hot dog and driving a car in a night, man in a black hat holding a phone, a sheep wearing sunglasses in a car, a man and woman in black jackets eating hot dogs, and a man wearing a jacket and glasses driving a car at night. The video does not contain any unusual activities.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1111": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Does That Sheep Have Sunglasses  (Ep. 8)83.mp4",
@@ -1215,21 +1215,21 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video contains various activities, such as dancing, walking, and running. However, there are some unusual activities like a group of young men with drinks, a man standing on a couch, and people standing in a parking lot. There is also a person wearing a cowboy hat and a woman with a blue shirt. These unusual activities are not frequent, but they can be considered as such compared to other videos.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1116": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Does That Sheep Have Sunglasses  (Ep. 8)88.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in the video. The video shows a young man and a boy walking down a street and then running into a garbage dumpster. They walk around the area, and then the boy starts throwing trash into the dumpster. There are a few objects mentioned in the video, including trash bags, a blue shirt, a green bottle, a black man walking, a black man walking, a blue man walking, and a person throwing trash into a trash can.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1117": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Does That Sheep Have Sunglasses  (Ep. 8)9.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video does not contain any unusual activities, but there are various scenes of people participating in different events, like soccer games, camping trips, and outdoor picnics.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1118": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Does That Sheep Have Sunglasses  (Ep. 8)91.mp4",
@@ -1292,7 +1292,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are several unusual activities in this video, including a man holding a fish in his mouth, a man eating a fish on the floor, and a man eating a fish on the windowsill. These activities are not usually done in a normal environment, and they are quite shocking.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1127": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Party On!  (Ep. 3)105.mp4",
@@ -1348,21 +1348,21 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "I cannot provide an answer to your question as it depends on the context and circumstances of the situation. However, I can provide information regarding the video. It appears to be a video of a snow-covered door, and the description mentions different objects and people, including a woman in a room, a boy wearing black clothing, a white chair with a black cushion, and a white and black table. The video also includes other details such as the color of the table, the height of the curtain, and the presence of a door.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1135": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Party On!  (Ep. 3)112.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video does not contain any unusual activities.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1136": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Party On!  (Ep. 3)113.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in this video.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1137": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Party On!  (Ep. 3)115.mp4",
@@ -1397,7 +1397,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video does not contain any unusual activities. It shows a young boy being playful, standing with a white shirt on and holding a pillow in one frame. In another frame, the boy is standing with a white shirt on and holding a blanket in another room.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1142": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Party On!  (Ep. 3)120.mp4",
@@ -1432,7 +1432,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in the video. However, we can see a person walking down a hallway and then down a hallway. A person is also seen walking down a hallway and standing in a room. There is also a man and woman walking down the hallway and standing in a room, and a man standing in a doorway and a man walking through a doorway.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1147": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Party On!  (Ep. 3)128.mp4",
@@ -1446,7 +1446,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video does not contain any unusual activities. It depicts a man who is talking to another man in a room. The video has no violence or any dangerous situation. It just depicts the conversation of two men.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1149": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Party On!  (Ep. 3)130.mp4",
@@ -1460,7 +1460,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video shows a group of young people on a raft, rafting through a river with a waterfall. The video also includes a man on a bike and a woman on a skateboard riding through the same river. There are also children and people jumping into the water. It seems like the people are having fun and enjoying themselves in the river. There are no unusual activities observed in the video.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1151": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Party On!  (Ep. 3)135.mp4",
@@ -1523,7 +1523,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video contains a racoon, a cat, and various scenes of them interacting with soap bubbles, which are considered unusual.  The video does not contain any abnormal or unethical activities.  It is just a fun and interesting video showing animals interacting with soap bubbles.  However, it is important to note that animals should not be treated with harm or neglect and should always be treated with care and respect.  If there is anything unusual or suspicious about the behavior of the animals in the video, please let me know.  I am here to help.  Finally, thank you for your question. I hope the video is enjoyable and informative for you.  If you have any further questions or concerns, please feel free to ask.  Thank you.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1160": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Party On!  (Ep. 3)147.mp4",
@@ -1579,7 +1579,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are a few unusual activities in the video, such as a raccoon eating watermelon, a squirrel eating a sandwich, and a monkey eating chicken. However, these are not extremely unusual or uncommon. The video also shows animals eating in a bowl of water and ice, which is a common occurrence.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1168": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Party On!  (Ep. 3)154.mp4",
@@ -1593,7 +1593,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in this video. It shows a black and white abstract, black and white squares, and a picture of a girl in black and white. There are also some other objects, such as a black and white checkered flag, a black and white striped background, and a square of color. The video does not contain any sound effects.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1170": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Party On!  (Ep. 3)159.mp4",
@@ -1614,7 +1614,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video shows a tall pine tree in front of a white house in the suburbs. There are other houses in the background, and there are some other objects in the scene. The video does not appear to contain any unusual activities.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1173": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Party On!  (Ep. 3)161.mp4",
@@ -1628,7 +1628,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video contains a series of shots showing a tree climber using a ladder in the middle of a forest. The video is silent, and the only sound is the rustling of the wind. Throughout the video, there are several trees, but no one else is shown present. The trees appear to be quite tall, and there are several shots of branches swaying in the wind. There is also a tall pole shown in several shots. There are no unusual activities that I noticed, so the answer to that question would be No.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1175": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Party On!  (Ep. 3)164.mp4",
@@ -1663,7 +1663,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is nothing unusual or unexpected in the video. It depicts a man working on a tree with a man standing on the sidewalk below in a small town in the background. There are also buildings and streets with parked cars visible in the frames.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1180": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Party On!  (Ep. 3)17.mp4",
@@ -1691,14 +1691,14 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video does not contain any unusual activities.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1184": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Party On!  (Ep. 3)173.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in this video. It contains various scenes of a man and a woman riding a snowboard on a snowy hill, a person on a snowboard on a mountain, a person riding a snowboard on a snowy hill, a person riding a snowboard on a snowy hill in the snow, a man riding a snowboard in a snowy field, a man riding a snowboard down a snowy slope, a man snowboarding down a snowy hill, a man snowboarding on a snowy hill, a person riding a snowboard, and a person on a snowboard on a snowy hill. There are also various objects visible in the video, such as a yellow boat, a wakeboard, a surfboard, a red and blue flag, a yellow and black flag, and a white and yellow snowboard.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1185": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Party On!  (Ep. 3)174.mp4",
@@ -1733,21 +1733,21 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in the video. It contains a man and woman riding on a boat, a man and woman riding on a boat, a man and woman on a boat, a man and woman riding a boat, and a man and woman riding a boat. They are having a great time, enjoying the water and the beautiful scenery around them. They are not engaging in any dangerous or unusual activities.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1190": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Party On!  (Ep. 3)180.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in this video. However, some people are surfing on a motorcycle.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1191": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Party On!  (Ep. 3)181.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in this video. However, I can provide a detailed description of each frame if you are interested.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1192": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Party On!  (Ep. 3)182.mp4",
@@ -1817,7 +1817,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is no unusual activity in this video, only activities that are expected to occur in a pool or aquatic area, such as swimming and diving.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1202": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Party On!  (Ep. 3)23.mp4",
@@ -1845,7 +1845,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video does not contain any unusual activities. It is a video of a man jumping off a trampoline in a swimming pool, followed by a man jumping off a platform into a swimming pool, and then a man jumping into a swimming pool. However, the video is mostly just a man jumping off a platform into a swimming pool and a person jumping off a trampoline in a swimming pool. There is no other unusual activity captured in the video.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1206": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Party On!  (Ep. 3)29.mp4",
@@ -1880,7 +1880,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video does not contain any unusual activities. It shows a dog being sprayed with water from a hose in a backyard.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1211": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Party On!  (Ep. 3)34.mp4",
@@ -1929,14 +1929,14 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in the video. The video simply shows two yellow labrador retrievers in a kitchen, playing with tennis balls and sitting on the floor. They also occasionally stand and walk around. The video is mostly a static shot with little movement. The dogs are well-behaved and well-trained as they do not seem to be making any mistakes or getting into any trouble while playing.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1218": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Party On!  (Ep. 3)44.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in the video. It's a video of a yellow dog in a snowy backyard, playing with a snow shovel. The dog appears to be enjoying itself and having a lot of fun in the snow.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1219": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Party On!  (Ep. 3)45.mp4",
@@ -1964,14 +1964,14 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video contains various activities, including drinking water and throwing a trash can. However, these activities do not seem unusual to me.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1223": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Party On!  (Ep. 3)52.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video does contain unusual activities. In the first frame, a young woman wearing a black and white t-shirt is drinking alcohol. In the next frame, she is seen holding a drink and looking at the camera with a surprised expression. Throughout the video, the woman is also seen holding a glass of alcohol and pouring it into a glass. There are no other activities that are out of the ordinary in the video.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1224": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Party On!  (Ep. 3)53.mp4",
@@ -1999,7 +1999,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video contains several activities. In the first frame, a little boy is holding a bottle of soda. Then, we see a little boy holding a large cup of orange soda. In the third frame, we see the same little boy holding a soda cup in a restaurant. In the fifth frame, we see a man drinking orange soda from a large cup. In the sixth frame, a boy is drinking a milkshake from a straw. In the seventh frame, a boy is drinking an orange soda in a red cup. In the eighth frame, a child is drinking an orange soda in a white bucket. Finally, we see a young boy drinking an orange soda from a cup in a room.\n\nIn terms of unusual activities, one may note that some of the objects that are being used in the video may seem ordinary but their presence in the video makes them stand out, such as the fact that the young boy is drinking an orange soda in a room and that the man is holding a cup of orange soda in a restaurant.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1228": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Party On!  (Ep. 3)61.mp4",
@@ -2048,7 +2048,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are some unusual activities in the video, but not in every frame. In the first frame, a young boy is jumping in the air and landing on a red brick patio in front of a house. In the second and third frames, the same boy is seen running, jumping, and doing flips on the red brick patio. In the fourth and fifth frames, a man is seen doing flips on the red brick patio while wearing black shorts and a white shirt. In the sixth and seventh frames, the same man is seen jumping off a bench and then doing flips on a patio. Finally, the last two frames show a man running and a girl walking on a red brick patio in front of a house. Overall, there are some interesting and unusual activities in the video.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1235": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Party On!  (Ep. 3)73.mp4",
@@ -2062,14 +2062,14 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video shows a series of scenes where a person is playing with a big rubber ball in a yard or a swimming pool. In one scene, a man is playing with a rubber ball in the pool. In another scene, a person is jumping on a trampoline in a pool. The video also shows a man playing with a big pink ball in the yard. There are also scenes where people are sitting by a pool and watching a man play with a ball. Finally, the video shows a man playing with a big rubber ball in the yard, and people standing around the pool.\n\nYes, there are some unusual activities in this video. Playing with a big rubber ball in a pool or a yard is not a typical activity. Also, jumping on a trampoline in a pool is not common.",
         "gt_failure": 1,
-        "pred_failure": 1
+        "pred_failure": "na"
     },
     "1237": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Party On!  (Ep. 3)75.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video shows a man and a child playing in a backyard with a small inflatable pool. There is also a blue mattress on the ground. However, there is no unusual activity in this video. The video captures the moments of play between the man and the child in a backyard.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1238": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Party On!  (Ep. 3)76.mp4",
@@ -2111,7 +2111,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in this video. The video shows a bird walking in a bird aviary or a bird park. The bird is grey and white and it is standing on a blue stone with white and black speckles. There are also several other birds in the background. The video shows various angles of the bird aviary, including the side of the aviary, the entrance to the aviary, and the birds inside the aviary.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1244": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Party On!  (Ep. 3)94.mp4",
@@ -2146,7 +2146,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video shows a little girl playing with a bucket at a sand beach. The girl has blonde hair and is wearing a blue jacket. The beach has blue and white sand. The video also shows a blue and black bucket and a large blue and white beach ball. There are no unusual activities in the video.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1249": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Say It, Don't Spray It (Ep. 7)100.mp4",
@@ -2174,7 +2174,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is nothing unusual about this video. It just shows a little girl and her father in different situations.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1253": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Say It, Don't Spray It (Ep. 7)105.mp4",
@@ -2223,7 +2223,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are some unusual activities in the video. For instance, in one scene, a couple is getting married on the dance floor, and in another scene, people are dancing on the floor, including a little girl in a dress. There's also a scene where a man and a woman are dancing on the floor. It seems like these are all celebratory moments in a party setting.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1260": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Say It, Don't Spray It (Ep. 7)113.mp4",
@@ -2307,14 +2307,14 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video does not contain any unusual activities. It shows a man standing in a yard with a cow in the background. He is wearing a red and white sweatshirt, a hat, and glasses. He is also holding his hands in a ball. In the next frame, he is holding a phone while standing in the yard. The scene has a rusty metal fence in the background. In the following frame, he is holding his hands in a ball while standing in the yard. There is a black and silver bike in the scene. The video continues with him standing in the yard with a cow in the background, and he is holding his hands in a ball again. In the next frame, he is still standing in the yard with a black and silver bike in the background. He is holding his hands in a ball and wearing a red hat. In the following frame, he is standing in the yard with a black and silver bike in the background, and he is holding his hands in a ball again. Finally, he is standing in the yard with a black and silver bike in the background and he is holding his hands in a ball.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1272": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Say It, Don't Spray It (Ep. 7)29.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video contains an unusual activity of a dog playing with a broom. It does not show any other unusual activities.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1273": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Say It, Don't Spray It (Ep. 7)3.mp4",
@@ -2335,7 +2335,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is no unusual activity in the video. The video shows a small French bulldog walking, running, playing on the sand, and standing on the beach. The dog seems to be enjoying the beach and the sunny weather.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1276": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Say It, Don't Spray It (Ep. 7)32.mp4",
@@ -2349,21 +2349,21 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video contains several activities of a black and white dog playing with different objects. The dog plays with a tennis ball, a green chair, a small rubber toy, and a yellow tennis ball. It's not an unusual video, but it's enjoyable to see a dog playing and enjoying itself.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1278": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Say It, Don't Spray It (Ep. 7)34.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in this video. It appears to be a funny video of a small dog with its owner holding a toy in its mouth. The dog is also holding a toy in its mouth. The video shows the dog sitting on a couch while its owner is holding a toy in its mouth. There are also other objects present in the video such as a black couch and a leash on a dog. However, the main focus of the video is on the small white dog and its interactions with its owner and other objects in the room.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1279": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Say It, Don't Spray It (Ep. 7)35.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video primarily consists of a dog running around a lawn or in a backyard, with some other animals like a cat and a little girl also appearing in some frames. There are no unusual activities or actions happening in the video. However, one thing worth noting is that the dog appears to be playing or jumping around the lawn, which is a common and enjoyable sight for many pet owners.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1280": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Say It, Don't Spray It (Ep. 7)36.mp4",
@@ -2391,7 +2391,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is no unusual activity in this video.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1284": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Say It, Don't Spray It (Ep. 7)4.mp4",
@@ -2412,7 +2412,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "Sure! The video contains various animals, including a white puppy, a dog, and a cat. The video shows that the puppy is playing and running around on the floor. In one frame, a dog is seen standing in the middle of the room and is not doing anything else. However, there are no unusual activities in this video.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1287": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Say It, Don't Spray It (Ep. 7)42.mp4",
@@ -2426,14 +2426,14 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video does not contain any unusual activities. It contains several frames of a man playing fetch with a small black and brown dog at the beach. The dog appears to be running and jumping around the man in different frames. The video is mostly focused on the dog, but there are a few frames showing the man's feet and other objects in the background.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1289": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Say It, Don't Spray It (Ep. 7)44.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video contains a dog sitting in a living room with a large black clock on the wall. The dog is looking at a black and white television screen with a black and white picture. There is a large brown box behind the television and a white chair in the room. The dog is not playing any unusual games or activities. It is simply sitting there and looking at the television.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1290": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Say It, Don't Spray It (Ep. 7)49.mp4",
@@ -2447,7 +2447,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is a horse in the video at the end, but it is not running. It's walking. Other than that, there is no unusual activity.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1292": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Say It, Don't Spray It (Ep. 7)50.mp4",
@@ -2524,7 +2524,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video does not contain any unusual activities. It appears to be a group of people participating in a fun and interactive experience, dancing, and having fun with each other. They are using a camera to take pictures of themselves and their surroundings, and some of them are also wearing headsets that appear to be virtual reality equipment.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1303": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Say It, Don't Spray It (Ep. 7)61.mp4",
@@ -2538,7 +2538,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in this video.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1305": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Say It, Don't Spray It (Ep. 7)63.mp4",
@@ -2566,7 +2566,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are a lot of water and boat activities in the video, which is not unusual. However, there is also a fire and smoke in the video, which is not expected. Additionally, there are multiple people in the video, including young and old, men and women, and other individuals. Overall, the video is interesting, and the presence of the fire and smoke adds a different element to the video.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1309": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Say It, Don't Spray It (Ep. 7)67.mp4",
@@ -2594,14 +2594,14 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video does not contain any unusual activities. The majority of the actions involve a man and woman sitting in a boat with their legs in the water. In a few instances, the woman's feet can be seen standing on the water.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1313": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Say It, Don't Spray It (Ep. 7)70.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in the video. It shows people doing water sports such as wakeboarding and jet skiing on a lake.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1314": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Say It, Don't Spray It (Ep. 7)74.mp4",
@@ -2615,7 +2615,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in the video. It shows a young boy playing on the floor, a little girl running on the floor, a young boy dancing in a dress, a little girl playing in a park, a little girl running on the street, and a young girl walking in the rain. There are also scenes of people sitting in a restaurant, on a couch, and near a fence.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1316": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Say It, Don't Spray It (Ep. 7)76.mp4",
@@ -2629,7 +2629,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video contains an unusual activity in the second frame, where a hose is spraying water in a bathroom. In the first frame, there is no unusual activity, and the video starts with a picture of a door and a hallway.  In the following frames, there are many unusual activities such as a hose spraying water in a bathroom, water coming from the hose, and people washing their hands with water.  The video also shows people walking down the hallway and a man standing in the bathroom. There is also a picture of a man and a woman, a picture of a white bathtub, and a picture of a white refrigerator.  Finally, the video shows a hose and two people in the bathroom, as well as a picture of a sink and a man standing in the bathroom. There is also a man holding a hose, a man standing in the bathroom, and a hose spraying water.  However, there is no clear description of the location, and it is not clear if it is in a public or private building.  But overall, the video shows various people and objects that are not usual in a public bathroom, which may make it unusual.  Please provide more specific information if you have any further questions.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1318": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Say It, Don't Spray It (Ep. 7)79.mp4",
@@ -2664,7 +2664,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video contains a man surfing on a wave. It also contains a man with a surfboard and a surfer standing on a sandy beach. Additionally, there is a man riding a snowboard, a person walking on a surfboard, and a person standing in the water. However, there are no unusual activities in the video.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1323": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Say It, Don't Spray It (Ep. 7)87.mp4",
@@ -2692,7 +2692,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in the video. The video shows people playing in a playground, a man and woman playing in a park, and a woman playing on a swing. There is a playground swing and a woman on a bike. Additionally, there is a man and a woman playing in a park and a young girl playing on a swing.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1327": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - Say It, Don't Spray It (Ep. 7)93.mp4",
@@ -2748,7 +2748,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are various activities seen in the video, including people playing on the beach, surfing, and a person throwing a ball in the air. In one particular scene, a young man is seen throwing a ball to a young boy on the beach, which can be considered unusual, as the young boy is playing in the sand, and not on the beach itself.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1335": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - That's Going To Cost You  (Ep. 10)103.mp4",
@@ -2762,14 +2762,14 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "Sure, this video has a very unusual activity, which is a young man jumping into a pool from the top of a diving board, without a life jacket on. This is a dangerous activity that can result in serious injury. It is not recommended or safe to attempt such activities without proper training, equipment, and supervision. It is important to always prioritize safety when engaging in any type of water sports.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1337": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - That's Going To Cost You  (Ep. 10)105.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video shows a young man in water while holding his son in his hands. He is in the middle of a blue ocean with boats in the background. There are no unusual activities in this video.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1338": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - That's Going To Cost You  (Ep. 10)107.mp4",
@@ -2790,14 +2790,14 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video does not contain any unusual activities. It only shows two men dressed in black attending an event. The men are also wearing white shirts and black shoes, with the background being an old brick building.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1341": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - That's Going To Cost You  (Ep. 10)111.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in the video.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1342": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - That's Going To Cost You  (Ep. 10)112.mp4",
@@ -2909,7 +2909,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video does not contain any unusual activities. It features a person riding on a surfboard on a large body of water while also holding onto a kite on the water. The kite is blue, and the person is holding it while riding the surfboard. The surfboard is also red and orange, and the person wearing a black and orange shirt. The water is choppy, and there is a boat visible in the distance. Overall, it's an action-packed video featuring a skilled person riding a surfboard and holding onto a kite on the water.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1358": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - That's Going To Cost You  (Ep. 10)23.mp4",
@@ -2923,7 +2923,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video does not contain any unusual activities. It is a group of friends having a party and playing video games on a table in a home. They can be seen having a good time and enjoying themselves.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1360": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - That's Going To Cost You  (Ep. 10)27.mp4",
@@ -3007,7 +3007,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is nothing unusual or abnormal in this video. It just shows a woman playing the Wii in her living room with her young daughter. She is jumping up and down and jumping up and down while wearing gray pants. In other frames, she is dancing and dancing with the young girl while wearing gray pants. There is no unusual activity in the video.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1372": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - That's Going To Cost You  (Ep. 10)39.mp4",
@@ -3035,7 +3035,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is no unusual activity in the video. However, it does contain a lot of different objects and scenes that vary in different frames.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1376": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - That's Going To Cost You  (Ep. 10)5.mp4",
@@ -3091,21 +3091,21 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video contains a person interacting with a brown dog in a living room. The video is 7 seconds long and contains various activities, such as a person holding a dog, a man playing with a dog, a person playing with a brown dog, a person petting a dog, and a man sitting on the couch. There are also several objects visible in the video, including a brown couch, a yellow pump, and a blue and red toy. However, there are no unusual activities in the video.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1384": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - That's Going To Cost You  (Ep. 10)59.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is no unusual activity in the video. It just shows various objects and scenes that are in a typical video.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1385": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - That's Going To Cost You  (Ep. 10)60.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "Sure, this video contains a German Shepherd dog swimming in a pool. This is an unusual activity for a dog, as they are typically not known for swimming. Additionally, the dog seems to be enjoying the swimming experience, which is also unusual as dogs are typically seen swimming as a means to cool down in hot weather. Overall, the video is quite interesting and captures a unique moment for a German Shepherd dog.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1386": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - That's Going To Cost You  (Ep. 10)61.mp4",
@@ -3133,7 +3133,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in the video. The video shows a man, wearing an orange shirt, standing and sitting with a dog on a mountain and hill. The dog is black, white, and brown. The man is standing on a mountain and hill, wearing an orange vest and a black helmet, and is holding a leash for the dog.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1390": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - That's Going To Cost You  (Ep. 10)65.mp4",
@@ -3189,7 +3189,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video includes several activities, such as a couple dancing, a man and woman fighting, a family playing a game, a couple fighting in a backyard, a man playing basketball with a woman, and a young boy playing baseball in the living room. However, there is no unusual activity that I can point out in the video. The majority of the activities involve people doing recreational sports or playing games, but they are all done in a safe and respectful manner.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1398": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - That's Going To Cost You  (Ep. 10)74.mp4",
@@ -3203,14 +3203,14 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video does not contain any unusual activities that I could notice. It appears to show a young girl standing in front of a toilet in a bathroom, sometimes with a white toothbrush and sometimes with her hair being brushed.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1400": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - That's Going To Cost You  (Ep. 10)77.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are some unusual activities in this video. One scene shows a young woman blowing into an electrical outlet in a bathroom, which is not a recommended or safe practice. Additionally, some scenes show people playing with electrical outlets in a bathroom, which is also not a recommended or safe practice. Other scenes show a man and woman standing together in the bathroom, a young girl looking at an electrical outlet in the bathroom, and a man looking at a woman's face.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1401": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - That's Going To Cost You  (Ep. 10)78.mp4",
@@ -3231,7 +3231,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video contains unusual activities, as it depicts a couple dancing and a man standing in the kitchen. These actions are unpredictable and don't follow any specific routine, indicating that they are not typical for the people in the video.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1404": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - That's Going To Cost You  (Ep. 10)81.mp4",
@@ -3259,7 +3259,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video does not contain any unusual activities. It simply shows different scenes of a small French bulldog inside an open refrigerator, with a bowl of food and a glass on the counter, and later inside an open door with a pet in a bowl and the word \"Coffee\" on a sign.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1408": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - That's Going To Cost You  (Ep. 10)86.mp4",
@@ -3280,7 +3280,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video does not contain any unusual activities, but it does show a person getting ready for a night out in an apartment, as well as a kitchen filled with dishes and other items. The video also shows a man getting ready for a night out in an apartment, and there is a man getting ready for a night out. Additionally, a person is shown opening a fridge in the apartment, as well as opening a refrigerator in the kitchen.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1411": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - That's Going To Cost You  (Ep. 10)90.mp4",
@@ -3294,6 +3294,6 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in the video.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     }
 }

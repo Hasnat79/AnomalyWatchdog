@@ -84,10 +84,13 @@ auc_roc_curve(filtered_res)
 
 
 calculate_precision_recall_f1(filtered_res)
-# auc_roc_curve: 0.5183118745612152
-# precision: 0.63, recall: 0.76, f1_score: 0.69, support: None
 
 
+# 3518
+# tp: 2024
+# tn: 131
+# auc_roc_curve: 0.5100397744506026
+# precision: 0.63, recall: 0.92, f1_score: 0.75, support: None
 
 
 

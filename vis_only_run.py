@@ -203,9 +203,9 @@ def main():
             llm_message = videollama_output_generation(video_path,text_input)
             # llm_message = "No, the video contains an unusual activity. At 2.6 seconds, a man walks past a house at night with a camera in his hand, and at 4.7 seconds, a man and a dog are walking across a wooden deck at night. This implies that the man in the video is taking photos of people and their surroundings."
 
-            if "yes" in llm_message.lower():
+            if "yes" in llm_message[:3].lower():
                 pred_failure = 1
-            elif "no" in llm_message.lower():
+            elif "no" in llm_message[:2].lower():
                 pred_failure = 0
             else: 
                 pred_failure = 'na'

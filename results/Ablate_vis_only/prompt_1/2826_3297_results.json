@@ -67,7 +67,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is an unusual activity in the video. At around 2.9 seconds, there is a skier going down a waterfall. This activity is not very common.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "2836": {
         "video_path": "./data/oops_dataset/oops_video/val/Hardcore, Parkour! - Fan Submissions (May 2018) _ FailArmy30.mp4",
@@ -102,7 +102,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities present in the video. However, there are some unexpected scenes, such as the man in a red shirt walking on a forest trail, and the person walking on a dirt path in a park. The man on the bike is also riding in a very muddy area.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "2841": {
         "video_path": "./data/oops_dataset/oops_video/val/Hardcore, Parkour! - Fan Submissions (May 2018) _ FailArmy38.mp4",
@@ -179,7 +179,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in this video. However, it does show a mother and a child playing in a kitchen, and there is a young woman wearing a pink shirt and another woman wearing a white shirt.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "2852": {
         "video_path": "./data/oops_dataset/oops_video/val/Hardcore, Parkour! - Fan Submissions (May 2018) _ FailArmy6.mp4",
@@ -193,7 +193,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is nothing unusual about the video, it just shows a cat jumping onto a countertop, a cat jumping onto a shelf, and then a cat standing on the countertop. These are all common cat behaviors.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "2854": {
         "video_path": "./data/oops_dataset/oops_video/val/Hilarious Holiday Fails (December 2017) _ FailArmy0.mp4",
@@ -207,7 +207,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is no unusual activity in the video.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "2856": {
         "video_path": "./data/oops_dataset/oops_video/val/Hilarious Holiday Fails (December 2017) _ FailArmy10.mp4",
@@ -221,7 +221,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video does not contain any unusual activities. It shows a family setting up a Christmas tree, decorating it, and celebrating Christmas with gifts and food.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "2858": {
         "video_path": "./data/oops_dataset/oops_video/val/Hilarious Holiday Fails (December 2017) _ FailArmy12.mp4",
@@ -249,7 +249,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is nothing unusual in the video, as it contains only typical activities and objects.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "2862": {
         "video_path": "./data/oops_dataset/oops_video/val/Hilarious Holiday Fails (December 2017) _ FailArmy18.mp4",
@@ -270,7 +270,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video does not contain any unusual activities. It only shows a dog lying next to a Christmas tree on a floor in a room.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "2865": {
         "video_path": "./data/oops_dataset/oops_video/val/Hilarious Holiday Fails (December 2017) _ FailArmy20.mp4",
@@ -284,7 +284,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is no unusual activity in this video. It appears to be a regular cooking activity in a home kitchen.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "2867": {
         "video_path": "./data/oops_dataset/oops_video/val/Hilarious Holiday Fails (December 2017) _ FailArmy22.mp4",
@@ -305,7 +305,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is no unusual activity in the video.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "2870": {
         "video_path": "./data/oops_dataset/oops_video/val/Hilarious Holiday Fails (December 2017) _ FailArmy26.mp4",
@@ -326,14 +326,14 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in this video. It's a video of a woman and a dog in a park.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "2873": {
         "video_path": "./data/oops_dataset/oops_video/val/Hilarious Holiday Fails (December 2017) _ FailArmy29.mp4",
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video contains a cooking fowl with fire and flames on a boat. This is an unusual activity as birds are not usually cooked in flames. Additionally, the cooking process is not typically done in a boat.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "2874": {
         "video_path": "./data/oops_dataset/oops_video/val/Hilarious Holiday Fails (December 2017) _ FailArmy3.mp4",
@@ -431,7 +431,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is nothing unusual in the video. It is a straightforward video of a young man and his friend making a toy gun on a table. They make it with a plastic bottle, and it is a simple and harmless activity.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "2888": {
         "video_path": "./data/oops_dataset/oops_video/val/Hilarious Science Fails (July 2017) _ FailArmy1.mp4",
@@ -487,7 +487,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video contains several unusual activities, including a student playing with fire at the science department, a man with a lighter and a bottle of alcohol at a table in a classroom, a man sitting at a table holding a fire in a dorm room, and a man holding a flame in a school. It's not common for people to play with fire in a science department, and it's also not common for people to be sitting at tables holding flames. Additionally, some of the objects in the video, such as the bottle of alcohol, are unusual objects for a school setting.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "2896": {
         "video_path": "./data/oops_dataset/oops_video/val/Hilarious Science Fails (July 2017) _ FailArmy22.mp4",
@@ -515,7 +515,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video does not contain any unusual activities. It contains various scenes of young men and boys playing soccer and other outdoor activities in a backyard.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "2900": {
         "video_path": "./data/oops_dataset/oops_video/val/Hilarious Science Fails (July 2017) _ FailArmy26.mp4",
@@ -529,7 +529,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in the video. However, the video does include several captions that are specific to each frame, such as \"strange\" or \"sign\".",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "2902": {
         "video_path": "./data/oops_dataset/oops_video/val/Hilarious Science Fails (July 2017) _ FailArmy31.mp4",
@@ -571,14 +571,14 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are some unusual activities shown in this video. For example, at [4.57], we see people playing soccer on a beach, and at [7.32], we see a man and woman standing on a wet street. However, I cannot determine if these are unusual activities or if they occur frequently.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "2908": {
         "video_path": "./data/oops_dataset/oops_video/val/Hilarious Science Fails (July 2017) _ FailArmy37.mp4",
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video contains a man standing in a living room holding a glass of wine while making a silly face. There are no unusual activities depicted in the video.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "2909": {
         "video_path": "./data/oops_dataset/oops_video/val/Hilarious Science Fails (July 2017) _ FailArmy38.mp4",
@@ -620,7 +620,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is nothing unusual in the video. However, I should mention that the video is a compilation of different scenes. In the first scene, a young girl is pouring liquid from a plastic bottle into a bowl. In the second scene, the girl is pouring liquid from a plastic bottle into a bowl again. In the third scene, a young girl is holding a cup of milk and pouring it into a bowl. In the fourth scene, the girl is pouring milk from a large plastic jug into a bowl. In the fifth scene, a child is holding a cup of water and pouring it into a bowl. In the sixth scene, the girl is pouring milk from a plastic bottle into a bowl. In the seventh scene, a young woman is pouring a drink into a cup. In the eighth scene, the young girl is pouring liquid from a large plastic bottle into a bowl. Throughout the video, the girl is pouring liquid from a variety of sources, including a plastic jug, a large plastic jug, a cup of water, and a plastic bottle.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "2915": {
         "video_path": "./data/oops_dataset/oops_video/val/Hilarious Science Fails (July 2017) _ FailArmy44.mp4",
@@ -648,7 +648,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video does not contain any unusual activities. It depicts a man and a woman preparing for an underwater cleaning session.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "2919": {
         "video_path": "./data/oops_dataset/oops_video/val/Hilarious Science Fails (July 2017) _ FailArmy53.mp4",
@@ -662,7 +662,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is no unusual activity in the video. However, the video does show a group of young people dancing and standing in a classroom.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "2921": {
         "video_path": "./data/oops_dataset/oops_video/val/Hilarious Science Fails (July 2017) _ FailArmy55.mp4",
@@ -774,14 +774,14 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video shows people walking down the street and crossing the road in several instances. In one instance, a man is riding a scooter. It is unusual to see a person on a scooter, as it is not common in most areas. However, it is also not out of the ordinary to see people walk or cross the street in an urban setting.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "2937": {
         "video_path": "./data/oops_dataset/oops_video/val/Hopeless Romantic - Fails of the Week (October 2018) _ FailArmy22.mp4",
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in this video.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "2938": {
         "video_path": "./data/oops_dataset/oops_video/val/Hopeless Romantic - Fails of the Week (October 2018) _ FailArmy25.mp4",
@@ -844,7 +844,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video does not contain any unusual activities.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "2947": {
         "video_path": "./data/oops_dataset/oops_video/val/Hopeless Romantic - Fails of the Week (October 2018) _ FailArmy34.mp4",
@@ -858,7 +858,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is no unusual activity in the video. It shows a series of graphics with animals in various poses, with the last few frames showing the same graphic of the same animal in the same pose.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "2949": {
         "video_path": "./data/oops_dataset/oops_video/val/Hopeless Romantic - Fails of the Week (October 2018) _ FailArmy4.mp4",
@@ -886,7 +886,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are several unusual activities in this video. Firstly, there is a man swinging on a rope in a backyard at 0.0 and 1.2 seconds. Then, there is a man swinging on a rope at 2.5 and 4.9 seconds. At 3.7 seconds, a man is seen swinging on a rope in a backyard, and again at 6.2 seconds, there is a man swinging on a rope in a backyard. Finally, at 7.4 and 8.6 seconds, a man is seen swingsing on a rope in a backyard. These activities are unusual in that they are performed on ropes, and in a backyard, and not in a typical gym or park setting.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "2953": {
         "video_path": "./data/oops_dataset/oops_video/val/Hopeless Romantic - Fails of the Week (October 2018) _ FailArmy8.mp4",
@@ -914,7 +914,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video does not contain any unusual activities. It displays a scene with a blue clock, a red sign with white letters, a sign that is white and blue, a yellow sign, a green neon sign, a red neon sign, a sign with white and blue letters, a white sign that says \"the\", a red neon sign that says \"fail\", a red neon sign that says \"goodbye\", a white sign with blue letters, and a black metal sign. The scenes in the video depict a sign with white and blue letters on a black background, a sign with white and blue letters on a black background, and a blue sign on a black screen.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "2957": {
         "video_path": "./data/oops_dataset/oops_video/val/I Am Stuck In This Car! - Fails You Missed #16 _ FailArmy10.mp4",
@@ -942,7 +942,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video does contain some unusual activities, including a man pouring a glass of beer in a bar and a man cutting wood. However, these are not the only unusual activities in the video. The video also shows a person welding metal in a workshop, and a woman cleaning her house in the kitchen.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "2961": {
         "video_path": "./data/oops_dataset/oops_video/val/I Am Stuck In This Car! - Fails You Missed #16 _ FailArmy11.mp4",
@@ -1033,7 +1033,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is a lot of activity in the video, but it does not contain any unusual activities.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "2974": {
         "video_path": "./data/oops_dataset/oops_video/val/I Am Stuck In This Car! - Fails You Missed #16 _ FailArmy32.mp4",
@@ -1117,7 +1117,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is nothing unusual in the video. However, it does show a cute hamster standing on its hind legs while eating and sitting on top of a plastic cup. The video also shows a little girl with a hamster and two orange cats in a living room.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "2986": {
         "video_path": "./data/oops_dataset/oops_video/val/I Am Stuck In This Car! - Fails You Missed #16 _ FailArmy46.mp4",
@@ -1138,7 +1138,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is no unusual activity in the video.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "2989": {
         "video_path": "./data/oops_dataset/oops_video/val/I Am Stuck In This Car! - Fails You Missed #16 _ FailArmy49.mp4",
@@ -1187,7 +1187,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video does contain some unusual activities, but I cannot specify them as I cannot understand the context and content of the video. It contains various activities such as people running, playing football, and riding bikes.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "2996": {
         "video_path": "./data/oops_dataset/oops_video/val/I Am Stuck In This Car! - Fails You Missed #16 _ FailArmy56.mp4",
@@ -1299,7 +1299,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are several unusual activities in this video, but I cannot confirm whether they are unusual for the context or not without more information. There is a young man playing football in the backyard, but he is not wearing football equipment. Additionally, there are a few instances of a person throwing a ball and doing exercises with a medicine ball. These are not common or usual physical activities.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "3012": {
         "video_path": "./data/oops_dataset/oops_video/val/I Am Stuck In This Car! - Fails You Missed #16 _ FailArmy81.mp4",
@@ -1390,7 +1390,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video does not contain any unusual activities. It only shows a man and a woman grilling meat on a charcoal grill and preparing food on a barbecue.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "3025": {
         "video_path": "./data/oops_dataset/oops_video/val/I Am Stuck In This Car! - Fails You Missed #16 _ FailArmy99.mp4",
@@ -1453,7 +1453,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video does not contain any unusual activities.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "3034": {
         "video_path": "./data/oops_dataset/oops_video/val/I Made It! - Fails of the Week (October 2017) _ FailArmy18.mp4",
@@ -1530,14 +1530,14 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are some unusual activities in the video. For instance, there is a man in a green shirt eating a cake while another man is staring at the cake in a brown box. There is also a little boy with brown hair looking at a cake in a white box. Additionally, a little boy with brown hair and blond hair is also in the video.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "3045": {
         "video_path": "./data/oops_dataset/oops_video/val/I Made It! - Fails of the Week (October 2017) _ FailArmy29.mp4",
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video contains several unusual activities such as a man riding a surfboard while standing on the deck of a boat, another man standing on the deck of a boat, a man sitting on a kayak, a man jumping into a lake, and a man jumping off a waterfall into the water.  Additionally, there are various objects such as a surfboard, a kayak, a boat, a wetsuit, a swimboard, a bike, and a surfing wetsuit that are visible in the video.  However, none of these objects seem to be particularly unusual or exceptional in themselves.  Can you give me more specific information about these objects and their locations in the video?",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "3046": {
         "video_path": "./data/oops_dataset/oops_video/val/I Made It! - Fails of the Week (October 2017) _ FailArmy30.mp4",
@@ -1565,7 +1565,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are several unusual activities in the video. One such activity is a man riding a horse in a field with a woman in the background. There is also a man riding a bicycle on the beach and another man riding a bike on a sandy beach. Furthermore, a man is riding a motorcycle on a beach, which is not a typical activity for a beach. Additionally, a man is walking in the water in the ocean while wearing a wet shirt and there is a man sitting on a log on the beach.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "3050": {
         "video_path": "./data/oops_dataset/oops_video/val/I Made It! - Fails of the Week (October 2017) _ FailArmy34.mp4",
@@ -1614,7 +1614,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is no unusual activity in the video. It contains various graphics with a 3D style and abstract shapes.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "3057": {
         "video_path": "./data/oops_dataset/oops_video/val/I Made It! - Fails of the Week (October 2017) _ FailArmy6.mp4",
@@ -1754,7 +1754,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in the video. It contains snowboarding and sledding scenes, people skiing, snow, and other objects.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "3077": {
         "video_path": "./data/oops_dataset/oops_video/val/It's All Down Hill From Here - Throwback Fails (August 2017)23.mp4",
@@ -1789,7 +1789,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in this video. The video shows riders riding motorbikes on a dirt track, and there are also some people watching the race.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "3082": {
         "video_path": "./data/oops_dataset/oops_video/val/It's All Down Hill From Here - Throwback Fails (August 2017)28.mp4",
@@ -1803,7 +1803,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is no unusual activity in this video.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "3084": {
         "video_path": "./data/oops_dataset/oops_video/val/It's All Down Hill From Here - Throwback Fails (August 2017)3.mp4",
@@ -1873,7 +1873,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are several unusual activities in this video, but the most notable ones are a man and a woman riding a brown horse around a stable, and a man and a young girl riding a black horse in a stable at night. It is worth mentioning that the man in the video is a professional horse rider.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "3094": {
         "video_path": "./data/oops_dataset/oops_video/val/It's All Down Hill From Here - Throwback Fails (August 2017)40.mp4",
@@ -1936,7 +1936,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video does not contain any unusual activities. However, it does show a boy jumping on a bed, a man standing on a bed with a backpack, and a man jumping around on a bed. These activities might seem unusual or out of place in a typical household.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "3103": {
         "video_path": "./data/oops_dataset/oops_video/val/It's All Down Hill From Here - Throwback Fails (August 2017)51.mp4",
@@ -1957,7 +1957,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is nothing unusual about the activities shown in this video. It shows people playing with snow and ice, people walking on snow, and a car driving on ice.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "3106": {
         "video_path": "./data/oops_dataset/oops_video/val/It's All Down Hill From Here - Throwback Fails (August 2017)54.mp4",
@@ -2006,28 +2006,28 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video shows several unusual activities, including riding a motorcycle in the snow, riding on snow, riding a dirt road, and riding a four-wheeler.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "3113": {
         "video_path": "./data/oops_dataset/oops_video/val/It's All Down Hill From Here - Throwback Fails (August 2017)63.mp4",
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in the video.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "3114": {
         "video_path": "./data/oops_dataset/oops_video/val/It's All Down Hill From Here - Throwback Fails (August 2017)64.mp4",
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video contains a man riding a bike, a skateboard and a helicopter over a lake in a water sports center. However, there are no unusual activities or activities that could potentially be risky.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "3115": {
         "video_path": "./data/oops_dataset/oops_video/val/It's All Down Hill From Here - Throwback Fails (August 2017)68.mp4",
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are people skiing, snowboarding, and riding skateboards in the video. They are also taking a ride on the mountain. It's not abnormal, but it's a unique sight to see people from different sports and skiers skiing down the mountain together.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "3116": {
         "video_path": "./data/oops_dataset/oops_video/val/It's All Down Hill From Here - Throwback Fails (August 2017)69.mp4",
@@ -2083,7 +2083,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video contains a little girl standing in a kitchen, next to a Christmas tree, holding a remote control. It appears to be a normal and regular situation.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "3124": {
         "video_path": "./data/oops_dataset/oops_video/val/It's All Down Hill From Here - Throwback Fails (August 2017)77.mp4",
@@ -2104,7 +2104,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video does not contain any unusual activities. It shows a typical scenario of a woman dancing in a parking lot with two young girls who are also dancing.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "3127": {
         "video_path": "./data/oops_dataset/oops_video/val/It's All Down Hill From Here - Throwback Fails (August 2017)8.mp4",
@@ -2132,14 +2132,14 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video shows several unusual activities such as a person doing tricks with a skateboard at a skate park, a skateboarder performing a trick on a skateboard, and a person on a bicycle doing a trick in a skate park. These are not very common in skateboarding, and people who practice it usually perform tricks without the support of a bicycle or a skateboard.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "3131": {
         "video_path": "./data/oops_dataset/oops_video/val/It's All Down Hill From Here - Throwback Fails (August 2017)83.mp4",
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video does not contain any unusual activities.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "3132": {
         "video_path": "./data/oops_dataset/oops_video/val/It's All Down Hill From Here - Throwback Fails (August 2017)84.mp4",
@@ -2188,7 +2188,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video contains several unusual activities, such as a man doing push-ups, a man and a woman lifting weights, and a man doing handstands. However, I cannot say if these activities are unique in the video.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "3139": {
         "video_path": "./data/oops_dataset/oops_video/val/It's All Down Hill From Here - Throwback Fails (August 2017)93.mp4",
@@ -2223,7 +2223,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video does not contain any unusual activities. However, it shows some interesting phenomena such as black and red cars racing down the street, a motorcycle riding on the sidewalk, and a car getting a flat tire. The video also shows cars on the highway and a truck on the side of a road.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "3144": {
         "video_path": "./data/oops_dataset/oops_video/val/It's All Down Hill From Here - Throwback Fails (August 2017)98.mp4",
@@ -2258,7 +2258,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video does contain some unusual activities such as one of the boys playing a video game and another one blowing a kiss at someone.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "3149": {
         "video_path": "./data/oops_dataset/oops_video/val/Let's Get It!! - FailArmy After Dark (ep. 2)102.mp4",
@@ -2279,7 +2279,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in this video.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "3152": {
         "video_path": "./data/oops_dataset/oops_video/val/Let's Get It!! - FailArmy After Dark (ep. 2)11.mp4",
@@ -2356,7 +2356,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video contains a variety of scenes, including a bird on a stone, birds eating bread, a bird eating a bird, birds on the side of a pond, and ducks walking on the side of a canal. However, I cannot say if any of the scenes are unusual.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "3163": {
         "video_path": "./data/oops_dataset/oops_video/val/Let's Get It!! - FailArmy After Dark (ep. 2)142.mp4",
@@ -2370,7 +2370,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is no unusual activity in this video.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "3165": {
         "video_path": "./data/oops_dataset/oops_video/val/Let's Get It!! - FailArmy After Dark (ep. 2)145.mp4",
@@ -2664,7 +2664,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video contains various unusual activities. For instance, it shows a hand washing a window on a frozen car, a hand pouring alcohol into the car's window, a man holding a glass of beer in the car, and a person holding a bottle of beer and pouring it into a car. There are also some unusual man-made objects, such as a beer bottle and a bottle of alcohol. Furthermore, there are some objects that are not man-made, such as the frozen car and a sign on a tree.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "3207": {
         "video_path": "./data/oops_dataset/oops_video/val/Let's Get It!! - FailArmy After Dark (ep. 2)28.mp4",
@@ -2776,7 +2776,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video contains a lot of footage of cars parked and traveling on the road, but it is not an unusual activity to observe cars on the road. However, there is one scene where the car is parked on the road and is being watched by someone through a gate. It is not a common occurrence to park a car on the road in this location.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "3223": {
         "video_path": "./data/oops_dataset/oops_video/val/Let's Get It!! - FailArmy After Dark (ep. 2)53.mp4",
@@ -2790,7 +2790,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in the video.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "3225": {
         "video_path": "./data/oops_dataset/oops_video/val/Let's Get It!! - FailArmy After Dark (ep. 2)58.mp4",
@@ -2825,7 +2825,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video does not contain any unusual activities. It mainly shows a cute pug sitting on a black chair.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "3230": {
         "video_path": "./data/oops_dataset/oops_video/val/Let's Get It!! - FailArmy After Dark (ep. 2)63.mp4",
@@ -2930,7 +2930,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video does not contain any unusual activities. It displays a series of colorful abstract designs with the words \"stop\" and \"question\" in different font sizes and colors. There are also black and white stripes on the sides of the TV screen, and there are some captions with text on the TV screen.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "3245": {
         "video_path": "./data/oops_dataset/oops_video/val/Let's Get It!! - FailArmy After Dark (ep. 2)88.mp4",
@@ -3014,7 +3014,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are some unusual activities in the video. One of them is a boy wearing a yellow vest riding a mountain bike on a rock. Another is a person sitting on top of a large rock. There is also a person wearing a yellow vest holding onto a rope while climbing a rock. The video also includes people sitting on rocks, sitting on a rock, and climbing rocks.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "3257": {
         "video_path": "./data/oops_dataset/oops_video/val/Lets Get Stoned - Rock Fails14.mp4",
@@ -3070,14 +3070,14 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in this video.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "3265": {
         "video_path": "./data/oops_dataset/oops_video/val/Lets Get Stoned - Rock Fails24.mp4",
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in the video. The video shows people having fun at a beach, swimming in the ocean, and even taking photos of each other.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "3266": {
         "video_path": "./data/oops_dataset/oops_video/val/Lets Get Stoned - Rock Fails25.mp4",
@@ -3126,7 +3126,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video does not contain any unusual activities. However, it does show a man sitting on a rock overlooking the ocean.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "3273": {
         "video_path": "./data/oops_dataset/oops_video/val/Lets Get Stoned - Rock Fails33.mp4",
@@ -3140,7 +3140,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video contains various images with geometric shapes, abstract art, and numbers. In one frame, there is an image with a red background, black text, and a white and blue striped pattern. In another frame, there is an abstract red and blue artwork with white letters and a red circle.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "3275": {
         "video_path": "./data/oops_dataset/oops_video/val/Lets Get Stoned - Rock Fails5.mp4",
@@ -3189,7 +3189,7 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are several unusual activities in the video. In one scene, a man is surfing on a sand dune. In another, a man and woman are surfing in a sandy area. Additionally, there are instances of people on a trampoline, a beach, and a hill.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "3282": {
         "video_path": "./data/oops_dataset/oops_video/val/Let's Get Tropical - Beach Fails13.mp4",
@@ -3203,14 +3203,14 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video contains an unusual activity in which people are walking on a cement wall along the beach. It is not common for people to walk on walls, especially near the ocean, but it is possible that they are trying to get a better view or exercise.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "3284": {
         "video_path": "./data/oops_dataset/oops_video/val/Let's Get Tropical - Beach Fails15.mp4",
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is an unusual activity in this video. In the second frame, a black and white dog is riding on a motorcycle with a woman on the beach. This activity is not common in daily life.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "3285": {
         "video_path": "./data/oops_dataset/oops_video/val/Let's Get Tropical - Beach Fails16.mp4",
@@ -3266,14 +3266,14 @@
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is a man and a woman surfing in the video, but I do not see any other unusual activities. The people in the video are playing on the beach and water.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "3293": {
         "video_path": "./data/oops_dataset/oops_video/val/Let's Get Tropical - Beach Fails24.mp4",
         "prompt": "Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is one unusual activity in the video - a man and a young woman playing beach volleyball on a sandy beach. The activity is not typical for this type of video, but it is included in the video for the sake of diversity and interest.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "3294": {
         "video_path": "./data/oops_dataset/oops_video/val/Let's Get Tropical - Beach Fails25.mp4",

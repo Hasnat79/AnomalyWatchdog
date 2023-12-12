@@ -18,7 +18,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video does not contain any unusual activities. It only shows a man carrying a refrigerator on his back as he rides a bike down the road.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1416": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - That's Going To Cost You  (Ep. 10)95.mp4",
@@ -88,14 +88,14 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are several unusual activities that take place in this video. One of them is that a person is eating food and drinking a cup of coffee from a paper cup. Another unusual activity is a woman in a blue dress using a metal spoon to eat something.  Also, we can see a woman with a red scarf in her hair blowing a bubble out of a drink, a man with a beard on his chin talking on a phone, and a young man eating with a straw in his mouth.  Furthermore, there are several descriptions of people smoking cigarettes or holding cigarettes. One of the people in the video has long brown hair, and another has long brown hair and is eating food. Additionally, we can see a woman wearing a blue shirt and a woman wearing a blue dress. Overall, the video contains a mix of people doing different things like eating food, drinking, and holding various objects.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1426": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - That's Got to Sting (Ep. 6)105.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There seems to be some unusual activities in this video. In the first frame, we see a man standing on a tile floor while a couple is dancing on it. The next frame shows a man on his hands and knees on the floor while a person is kicking him. In the third frame, a man is standing on his hands and knees on the floor while the man and a woman are dancing. In the fourth frame, a man is kicking another man on the floor. In the fifth frame, the same man is again on his hands and knees on the floor while another person is kicking him. In the sixth frame, a man is standing on his hands and knees on the floor while a couple is dancing. In the seventh frame, a man and a woman are seen standing on the floor while a person is also standing on the floor. In the eighth frame, a man is on his hands and knees on the floor while a man is standing on the floor.\n\nIn summary, we see a lot of strange occurrences throughout this video, such as people standing on the floor, kicking each other, and sometimes multiple people being kicked while they stand on the floor. However, we cannot determine the actual cause or nature of these events.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1427": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - That's Got to Sting (Ep. 6)106.mp4",
@@ -116,7 +116,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video contains several unusual activities. It shows a young boy and a man holding a baby at different points in time. The young boy is also seen holding a teddy bear in some frames. Additionally, a baby is seen in the frame of a door, and a person is seen holding a brown teddy bear in another frame.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1430": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - That's Got to Sting (Ep. 6)109.mp4",
@@ -144,7 +144,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video contains an unusual activity of a person with a straw in a fast-food cup, with a cup on a table and a person holding a glass of lemonade in a cup. Additionally, there are multiple cups of fast food on the table.  However, I cannot provide any other unusual activities from the video as there are no other unusual actions described in the question.  The video is shot in slow motion, allowing us to focus on every detail, such as the texture of the fast-food and the different colors of the cups.  The description given by the developer is clear and detailed, making it easy for anyone to understand and navigate the video.  Overall, the video is visually appealing and engaging, with a clear focus on the activity of drinking fast food with a straw.  I would recommend watching it to anyone who enjoys slow-motion videos and appreciates the details of everyday life.  The captions are also provided to help provide additional context to the viewers.  Overall, the video is a great representation of slow-motion content, and I would highly recommend it to anyone who enjoys such content.  Lastly, I would like to say that the person in the video is eating the fast food with a straw, which might indicate a possible dietary preference or requirement, and the description of the fast-food available in the restaurant should also be",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1434": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - That's Got to Sting (Ep. 6)114.mp4",
@@ -207,14 +207,14 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in the video. It contains a young man and a boy jumping over a couch while holding onto a pillow. There are also several people wearing blue hats. Additionally, there are several chairs in the home, a window, a lamp, a table, a staircase, and a dog.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1443": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - That's Got to Sting (Ep. 6)124.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in this video. However, I can observe the presence of some toys, a table, a woman, a man, a child, a dog, and a chair.  The first frame depicts a woman playing with a child and a man in a blue shirt sitting at a table. The second frame depicts a woman and a man in the same position as the previous one, while the third frame shows a man and a woman sitting at a table. The fourth frame displays a toddler playing with a toy next to a table. The fifth frame depicts a toddler sitting in a wooden chair. The sixth frame shows a child sitting at a table with a woman, and the seventh frame portrays a young boy playing with toys in a toddler chair. The eighth and last frame show a man and woman sitting on a chair in the same position as the previous ones.  Overall, the video does not depict any unusual activities, but rather shows a couple and a child sitting at a table, playing with toys, and enjoying some moments of playfulness together.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1444": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - That's Got to Sting (Ep. 6)127.mp4",
@@ -228,7 +228,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video shows a young woman lying on her stomach, face down, on the floor of a bedroom. There is also a man lying on the floor. At one point, the woman is shown with a white shirt on her body. In another scene, she is shown with a blue shirt on. There is also a pillow and a white sofa in the background. \n\nThe woman is lying down on her stomach and looking at the camera. Her eyes are closed and she has a calm expression. She appears to be in a relaxed state of mind, enjoying the comfort of the soft floor.\n\nIn some scenes, the woman is lying down on her stomach with her hand on her belly. At one point, she is shown with her hand on her head and looking at the camera. The man is also shown with his hand on his head in some scenes.\n\nOverall, the woman seems to be relaxed and content with her situation. She is lying down on the floor, possibly due to fatigue or other reasons. However, the scene does not suggest anything unusual or problematic.",
         "gt_failure": 0,
-        "pred_failure": 1
+        "pred_failure": "na"
     },
     "1446": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - That's Got to Sting (Ep. 6)130.mp4",
@@ -263,7 +263,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is no unusual activity in this video. It appears to be a series of scenes depicting various locations and activities.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1451": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - That's Got to Sting (Ep. 6)138.mp4",
@@ -277,7 +277,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There seems to be nothing unusual in the video. It shows a family having a good time at the pool with their dog and children playing in the water.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1453": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - That's Got to Sting (Ep. 6)140.mp4",
@@ -291,7 +291,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video contains a man riding in the back of a pickup truck. The man is sitting on the couch in the truck and he looks tired. He seems to be sitting on a bench seat and holding a phone. There are no unusual activities in the video.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1455": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - That's Got to Sting (Ep. 6)143.mp4",
@@ -312,7 +312,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video contains several unusual activities. First, it features a young man and woman riding on a surfboard while on the water. Then, the video shows a man holding a surfboard in the middle of the lake, with another person on the board behind him. In another frame, a man is riding a surfboard with a man and a woman on it. The video also shows a young boy on a surfboard, with a surfboard in the middle of the lake. The last two frames show a woman and man on a surfboard with a man and a woman holding the surfboard.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1458": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - That's Got to Sting (Ep. 6)19.mp4",
@@ -340,14 +340,14 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video does not contain any unusual activities that can be spotted. However, we can notice that the video is taken inside a room, and the man is seen holding a bottle of alcohol. The video shows him drinking alcohol from the bottle, and he seems to be enjoying the beverage.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1462": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - That's Got to Sting (Ep. 6)23.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are a lot of bicycles and skateboards in the video, so I would say that the unusual activity is the person riding a skateboard in the parking lot. This is not a common activity in a parking lot.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1463": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - That's Got to Sting (Ep. 6)24.mp4",
@@ -361,7 +361,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in this video. It contains a series of videos showing a man training with a ball in a skate park. In some frames, the man is hitting the ball in different ways, such as swinging it with a bat or hitting it with his leg.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1465": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - That's Got to Sting (Ep. 6)26.mp4",
@@ -375,28 +375,28 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video does not contain any unusual activities. It is a video of a family eating dinner at a table. However, the video contains descriptions of the people and objects in the video, which I will be analyzing.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1467": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - That's Got to Sting (Ep. 6)28.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is nothing unusual in the video. The video shows people sitting on a couch at a kitchen table, watching or playing games, and preparing meals.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1468": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - That's Got to Sting (Ep. 6)29.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video contains a man wearing a brown jacket playing the piano and a girl playing the piano on a street. It also shows a man jumping into a pool of water and a girl jumping off a table. So, yes, there are some unusual activities in the video.",
         "gt_failure": 1,
-        "pred_failure": 1
+        "pred_failure": "na"
     },
     "1469": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - That's Got to Sting (Ep. 6)3.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video contains a woman jumping off a diving board into a swimming pool with a small water fountain in the background. In the following frames, the woman is jumping off the diving board into the swimming pool. In some frames, the woman is jumping off the diving board and diving into the pool with a pool raft and a ladder in the background. There are also frames that show a man jumping off the diving board into the swimming pool, and a woman in a red bikini swimming in the pool with a small water fountain. There are no unusual activities that I can detect.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1470": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - That's Got to Sting (Ep. 6)30.mp4",
@@ -424,14 +424,14 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video is focused on a classroom setting, where a group of students are attending a lecture. The students sit at their desks and appear engaged in the lecture. \n\nThere is a man standing in the back of the room who is also engaging in the lecture, and the camera focuses on his head for a brief moment. The lecture is being given by a man wearing a suit and tie, who appears to be using a green board as his presentation tool. \n\nThroughout the video, the students appear to be attentive and engaged in the lecture, taking notes and listening carefully. There are no unusual activities noticed, only a few brief moments where students are seen pointing or nodding in agreement with the lecturer's points.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1474": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - That's Got to Sting (Ep. 6)35.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are several unusual activities in the video. One of the most notable is the man in the video saying \"I will say something you will understand.\" Additionally, there is a man holding a camera and talking to another man in the video, and a man in a suit is seen drinking beer at one point. Another unusual activity is the man talking on his phone and talking with a woman at the same time. There is also a man in a suit and a man holding a sheet of paper talking in the video. Overall, the video shows various unusual activities that are unrelated to a normal day-to-day school setting.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1475": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - That's Got to Sting (Ep. 6)39.mp4",
@@ -452,7 +452,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in the video. It is a video of a man speaking in front of a chalkboard in a classroom. There are tables with papers on them, a cup with a hot beverage, and other objects present in the scene.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1478": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - That's Got to Sting (Ep. 6)47.mp4",
@@ -480,14 +480,14 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video does contain a few unusual activities. For example, the first frame shows a dog covered in plastic bags in a bathtub, which is quite rare. Another unusual activity is the presence of ducks in a bathtub in one of the frames. Additionally, there are multiple instances where a dog or a cat is covered in plastic bags.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1482": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - That's Got to Sting (Ep. 6)53.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are many unusual activities taking place in this video. One of the most notable is the bride and groom sitting on a toilet for their pre-wedding photoshoot. This can be considered as an unusual or unconventional activity, as it might not be what one would traditionally expect for a pre-wedding photoshoot. Additionally, there is a man jumping over a toilet in one of the frames, which could also be considered an unusual activity. The video also shows a group of men swimming in a bathtub, which could be considered unusual since a bathtub is not typically associated with swimming. Lastly, there is a man standing on top of a bathtub in one of the frames, which could be considered an unusual activity. Overall, the video features a variety of unusual and unconventional activities that could be considered surprising.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1483": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - That's Got to Sting (Ep. 6)54.mp4",
@@ -536,7 +536,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are various activities in the video, such as a woman pouring liquid on the floor and a person using a cell phone. However, these activities are not particularly unusual.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1490": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - That's Got to Sting (Ep. 6)64.mp4",
@@ -564,7 +564,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video contains various activities, such as people walking, a woman riding a bike, and a man running. However, it does not contain any unusual activities that I can recognize.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1494": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - That's Got to Sting (Ep. 6)69.mp4",
@@ -578,7 +578,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is a baby in this video. However, it's not an unusual activity since there are many videos of babies in everyday activities like sleeping, waking up, and eating.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1496": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - That's Got to Sting (Ep. 6)72.mp4",
@@ -592,7 +592,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is no unusual activity in this video. It shows a young woman driving a car, eating food, and holding onto the steering wheel while driving.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1498": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - That's Got to Sting (Ep. 6)74.mp4",
@@ -606,7 +606,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is nothing unusual in the video. It's a 7-second video of an old woman sleeping in the car. She's sleeping with a blanket on her and appears to be snoring a little bit. There are no other people or objects in the video.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1500": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - That's Got to Sting (Ep. 6)76.mp4",
@@ -627,7 +627,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There doesn't seem to be any unusual activity in the video, it just captures a swimming pool and a man and woman swimming in it.  However, one interesting thing is that a boy is shown jumping into the pool at one point.  The video also captures a beach scene where a young woman is shown standing on the beach.  Throughout the video, there are also objects such as a blue bikini, a red sticker on a chair, and a red skateboard.  The video was captured with a 360-degree camera and contains several objects and people, giving a panoramic view of the pool and beach.  The description of the video is quite detailed, with descriptions of the people, objects, and colors that can be seen in each frame.  Overall, the video captures a relaxed day at the beach and pool, with people enjoying the sun and water.  There doesn't seem to be any particular theme to the video, as it simply shows people and objects existing in a peaceful environment.  However, the panoramic view of the pool and beach gives it a unique and interesting perspective, allowing the viewer to fully experience the surroundings.  Is there anything else you would like to ask about the video?",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1503": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy After Dark - That's Got to Sting (Ep. 6)89.mp4",
@@ -683,21 +683,21 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is an unusual activity in this video, which is the man who is running down the hallway. The rest of the video is a school hall with tables and chairs, a white wall with a wooden staircase, and various objects and individuals in the room. I can not detect any other unusual activities in the video.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1511": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy Playlist - Inflatables and Big Ballers (March 2019) _ FailArmy0.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video does not contain any unusual activities. It appears to be a loop of an animation with different scenes and objects.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1512": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy Playlist - Inflatables and Big Ballers (March 2019) _ FailArmy10.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video does not contain any unusual activities. The kids are playing in a park and in a field with a big air bag, and there are people on the street. There are no unusual animals or people in this video.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1513": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy Playlist - Inflatables and Big Ballers (March 2019) _ FailArmy100.mp4",
@@ -711,7 +711,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "Sure! There seems to be quite a few unusual activities happening in this video. For instance, the first few frames show a boy riding a skateboard on a trampoline, which is not a common occurrence. Later on, a boy is seen on a trampoline with a trampoline, and a boy rides a skateboard on a trampoline. Additionally, there are several people riding skateboards on a trampoline, which is also unusual. Overall, there seems to be quite a lot of unusual and exciting moments in this video.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1515": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy Playlist - Inflatables and Big Ballers (March 2019) _ FailArmy102.mp4",
@@ -753,7 +753,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video shows a small black car driving on a parking lot at night with a sign in the background. There are no unusual activities or objects visible in the video. The car is black, and the street is also dark.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1521": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy Playlist - Inflatables and Big Ballers (March 2019) _ FailArmy113.mp4",
@@ -767,14 +767,14 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video shows a boy doing gymnastics tricks on a pole in a room. At some point, he is also balancing on a pole in a room. However, there are no unusual activities visible from this video. The video is mostly focused on the boy's gymnastics tricks, but no dangerous activities are shown.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1523": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy Playlist - Inflatables and Big Ballers (March 2019) _ FailArmy115.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video shows various sports and outdoor activities in a park. There are no unusual activities shown in the video. However, I can see that there are people playing sports, riding a horse, walking a dog, and even a person doing a back flip on a trampoline. It also shows several dogs, including a big brown dog and a dog in the water.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1524": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy Playlist - Inflatables and Big Ballers (March 2019) _ FailArmy117.mp4",
@@ -802,7 +802,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is no unusual activity in the video. The video depicts different scenes of children playing table tennis and playing games in a court.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1528": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy Playlist - Inflatables and Big Ballers (March 2019) _ FailArmy121.mp4",
@@ -872,7 +872,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video does not contain any unusual activities, and it only shows a young child and an adult man playing together at home.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1538": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy Playlist - Inflatables and Big Ballers (March 2019) _ FailArmy131.mp4",
@@ -893,7 +893,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video shows various people riding and surfing in the sea, some with other people on their boats, some surfing on the water, and some in the water. There are no unusual activities in the video.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1541": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy Playlist - Inflatables and Big Ballers (March 2019) _ FailArmy139.mp4",
@@ -928,7 +928,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video does not contain any unusual activities. It contains a series of videos featuring a woman doing pole dance performances in a bedroom. She seems to be enjoying herself as she moves gracefully on the pole.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1546": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy Playlist - Inflatables and Big Ballers (March 2019) _ FailArmy146.mp4",
@@ -970,7 +970,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video does not contain any unusual activities. It is a video of a man sitting at a desk, playing a game on a yellow tablet. He is wearing a black shirt and a white hat. He is holding a yellow cup and there are several brown containers nearby. In the first few seconds, he is drinking from the cup. Then, he puts the cup down and picks up a yellow fan and starts waving it around. He is in front of a window with blinds on the right side. He also has a yellow fan in his hand in some parts of the video. Throughout the video, there are various objects in the room, such as a yellow cup, a yellow tablet, a yellow fan, a yellow pen, and a brown container.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1552": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy Playlist - Inflatables and Big Ballers (March 2019) _ FailArmy151.mp4",
@@ -984,7 +984,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video shows a young man and woman standing in a room with a Christmas decoration behind them. There is also a bottle of red wine on the table. The couple is dancing and laughing together. The woman is wearing a white tank top. At some point, they start using the champagne bottle as a microphone, which is a unique and fun activity. It is also interesting to see the different expressions of joy and happiness on their faces. However, there are no unusual activities that can be pointed out in this video.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1554": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy Playlist - Inflatables and Big Ballers (March 2019) _ FailArmy153.mp4",
@@ -1019,7 +1019,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video shows a baby eating a banana with a bowl in front of a brown wooden table. A young boy can be seen eating a sandwich in the same frame. The video also contains a white chair with a round seat, a brown wooden table, and a dining room. The video was taken indoors, and the lighting is mostly well-lit. There are no unusual activities shown in this video.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1559": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy Playlist - Inflatables and Big Ballers (March 2019) _ FailArmy159.mp4",
@@ -1054,7 +1054,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is no unusual activity in this video, as it appears to be a series of still images captured at different times. The video shows a young boy and a man running around in a grass field.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1564": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy Playlist - Inflatables and Big Ballers (March 2019) _ FailArmy165.mp4",
@@ -1068,21 +1068,21 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video does contain some unusual activities, such as a man and woman walking on a sidewalk and a man walking on a sidewalk near a trash can. However, the most unusual activity is a person carrying a snow-covered skateboard on a sidewalk.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1566": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy Playlist - Inflatables and Big Ballers (March 2019) _ FailArmy167.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in this video. It mainly shows a motorcycle driving through a garage or underground parking.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1567": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy Playlist - Inflatables and Big Ballers (March 2019) _ FailArmy168.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in this video, but it does show a person standing at a stop sign.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1568": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy Playlist - Inflatables and Big Ballers (March 2019) _ FailArmy169.mp4",
@@ -1117,7 +1117,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video is a timelapse of a street in Riga, Latvia, during the 75th anniversary of the liberation of Riga in 2020. The video shows a variety of activities taking place on the street, including cars passing by, people walking, and people crossing the street. There is a red car parked at a stop sign, and a man is standing in the street. Some of the other objects that appear in the video include a trash can, a traffic cone, and a white sign with red lettering. There is also a young man and woman walking on the sidewalk. The video does not contain any unusual activities, and it seems to be a typical day on the street in Riga.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1573": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy Playlist - Inflatables and Big Ballers (March 2019) _ FailArmy174.mp4",
@@ -1264,14 +1264,14 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video contains various sports activities like swimming, skiing, and playing basketball. It also features different situations such as people in a pool, a man jumping into a pool, and a man standing in a room. It does not contain any unusual activities.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1594": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy Playlist - Inflatables and Big Ballers (March 2019) _ FailArmy202.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video does not contain any unusual activities. The people in the video are doing their usual activities like swimming, riding a bike, and playing with a ball.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1595": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy Playlist - Inflatables and Big Ballers (March 2019) _ FailArmy203.mp4",
@@ -1299,14 +1299,14 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video shows a man doing various activities in the kitchen, such as mixing a drink, holding a cellphone, using a microwave, and talking on the phone. One of the frames shows the man making a funny face while using a microwave. Another frame shows him using a blue camera. There are no unusual activities that can be observed in the video.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1599": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy Playlist - Inflatables and Big Ballers (March 2019) _ FailArmy213.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video primarily shows a man wearing a baseball cap riding a skateboard. There are no unusual activities in the video. However, there are some interesting details and objects that are worth mentioning. For example, in some frames, the man is wearing a helmet and a backpack. In another frame, there is a skateboard on a cart in the store. Additionally, there are various objects such as skateboards, backpacks, caps, and bicycles that can be seen throughout the video.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1600": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy Playlist - Inflatables and Big Ballers (March 2019) _ FailArmy214.mp4",
@@ -1348,7 +1348,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video appears to be showing a man drinking water from a bottle in a kitchen. At one point, the man is holding a bottle of water while standing in the kitchen. He appears to be drinking from the bottle. There is a brown wood cabinet in the background of the kitchen. At another point, the man is holding a water bottle while standing in the kitchen. He is standing next to a woman who is holding a white toothbrush. There are different objects in the kitchen, such as a brown wood table, a white refrigerator, a white countertop, and a countertop that looks like a brown wooden bar. The video also includes some food-related objects, such as a bag of chips and a container of coffee. The man is wearing a red t-shirt in some frames.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1606": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy Playlist - Inflatables and Big Ballers (March 2019) _ FailArmy221.mp4",
@@ -1390,7 +1390,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video does not contain any unusual activities. It appears to be a normal video showing a person practicing dance moves in their home. The person is wearing a black sweatshirt and a blue sweater, and the room is filled with various objects such as a white vase, a table with a lamp on it, and a white shelf on the wall. There is also a black bookshelf in the room and a brown couch in the background.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1612": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy Playlist - Inflatables and Big Ballers (March 2019) _ FailArmy229.mp4",
@@ -1467,7 +1467,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video shows a man standing on a skateboard and doing tricks in a room with various objects, including a black metal bowl on a white base, a white ball on a white surface, and a small green box on a table. There are also various balloons in the room. The man performs tricks, stands on the skateboard, and interacts with various objects. The video does not contain any unusual activities.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1623": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy Playlist - Inflatables and Big Ballers (March 2019) _ FailArmy241.mp4",
@@ -1488,14 +1488,14 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is no unusual activity in this video. The video shows a man standing on the beach, riding the wave, and then surfing on the beach. There is also a man standing on the beach in a water sport outfit.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1626": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy Playlist - Inflatables and Big Ballers (March 2019) _ FailArmy244.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in the video. The video consists of a young man playing basketball in his backyard, jumping high in the air, and trying to hit a basketball into a hoop. The man also tries to hit a basketball into a hoop on a car in the background. The video lasts for 12 seconds.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1627": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy Playlist - Inflatables and Big Ballers (March 2019) _ FailArmy245.mp4",
@@ -1509,14 +1509,14 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in this video. It shows a man holding a pair of glasses while dancing at a festival.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1629": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy Playlist - Inflatables and Big Ballers (March 2019) _ FailArmy249.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video contains a series of events, where a man is walking with a child on a track at a stadium, a girl running on the track at a stadium, and a boy sitting on a track at a stadium. Additionally, a young boy and a young girl are seen sitting on a chair at a stadium, and a young girl in a yellow dress is sitting on a bench at a stadium. The event appears to be a race, with several runners and athletes participating in different stages of the event. There are also other people on the track, and it is not clear if they are spectators or part of the race. The video also captures the atmosphere of the event, with a large crowd in attendance and the sounds of cheering and applause in the background.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1630": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy Playlist - Inflatables and Big Ballers (March 2019) _ FailArmy250.mp4",
@@ -1558,7 +1558,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video does not contain any unusual activities. It is a series of frames showing a male and female portrait, a young man looking at himself, a young man and a young woman, a woman holding a kite, and a boy and a girl holding a kite. It seems to be an artistic portrait video with colorful backgrounds and different objects in the foreground.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1636": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy Playlist - Inflatables and Big Ballers (March 2019) _ FailArmy27.mp4",
@@ -1649,7 +1649,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in this video. The video shows men practicing martial arts in a gym. In the first few seconds, the video shows a man in a blue shirt standing in a gym. Then, the video shows a man training with a red and white ball on his head in a gym. In the next few seconds, we see a man practicing martial arts with a man in a black shirt in a gym. Then, we see a man practicing martial arts with a black belt on in a gym. The video continues to show different men practicing martial arts in a gym.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1649": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy Playlist - Inflatables and Big Ballers (March 2019) _ FailArmy49.mp4",
@@ -1677,7 +1677,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in this video. It appears to be a group of people playing tennis on a court, with some children and a man among them. They are playing with tennis rackets and balls, and some people are even taking lessons. The video lasts for six seconds, so it is quite short. Overall, it is a nice scene of people playing tennis together and having a good time outdoors.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1653": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy Playlist - Inflatables and Big Ballers (March 2019) _ FailArmy52.mp4",
@@ -1705,7 +1705,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video does not contain any unusual activities. It is a video of a man playing with a frisbee in a field. There are several frames where the man is throwing the frisbee and catching it, and the video also shows a young man throwing the frisbee around in the grass.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1657": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy Playlist - Inflatables and Big Ballers (March 2019) _ FailArmy56.mp4",
@@ -1740,14 +1740,14 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video contains various activities such as playing with balloons, having a lot of fun and games, playing bubble soccer, and hula hooping. However, it does not contain any unusual activities.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1662": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy Playlist - Inflatables and Big Ballers (March 2019) _ FailArmy63.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video does not contain any unusual activities. It is a video of a person getting ready in their bedroom.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1663": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy Playlist - Inflatables and Big Ballers (March 2019) _ FailArmy64.mp4",
@@ -1768,7 +1768,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video does not contain any unusual activities that I can see. It shows a young man and woman in a kitchen, and sometimes a man alone in a kitchen. They are walking, dancing, and eating. The man is holding a glass of water, a toilet brush, and a glass. The woman is holding a toilet brush and a cell phone. The video also shows different objects, such as a refrigerator, a shower, and a mirror. The scenes are changing, and I cannot provide a detailed description of every scene. However, I can give you the descriptions of the frames in the video.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1666": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy Playlist - Inflatables and Big Ballers (March 2019) _ FailArmy67.mp4",
@@ -1845,21 +1845,21 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is an unusual activity in this video, but it is not the focus of the video. The video contains a child and his mother doing ballet on a couch while balloons fall from the ceiling in the background.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1677": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy Playlist - Inflatables and Big Ballers (March 2019) _ FailArmy83.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in this video, and everything appears to be in a normal, everyday context. However, the video does show a child crawling on the floor, a man crawling up a stairway, and a man and a woman crawling on the floor. This may not be considered unusual, but it's important to keep in mind that crawling may not always be a safe or recommended activity for children.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1678": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy Playlist - Inflatables and Big Ballers (March 2019) _ FailArmy84.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in the video. However, there are some instances where the objects in the video are unusual. For example, in the third frame, there is a wooden table with a large white and black object on top. In the sixth frame, there is a metal object with a brown wooden chair, which is not a usual combination of objects.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1679": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy Playlist - Inflatables and Big Ballers (March 2019) _ FailArmy86.mp4",
@@ -1887,7 +1887,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are some unusual activities in the video. For example, a man is riding a unicycle on a beach in the first frame. Then, we see a man and a woman running on the beach with a mattress on their backs. The following frames show a man running on the beach with a beach ball, a man and woman on a beach with a beach ball, a man running with a mattress, and a man running on a beach carrying a pink beach towel. In one frame, a man is seen running with a pink mattress, and in another frame, a man is seen running with a pink mattress and a beach ball. In the last frame of the video, a man is riding a bicycle on the sand.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1683": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy Playlist - Inflatables and Big Ballers (March 2019) _ FailArmy90.mp4",
@@ -2006,7 +2006,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in this video. The video shows a gathering of people in a school hall, where they are watching a video on a screen. A man is speaking to the crowd, and some people are wearing uniforms. The video captures moments of people standing and sitting in the hall, with chairs and tables present in the scene. There are no other unusual elements in this video.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1700": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy's Got Talent (October 2017) _ FailArmy19.mp4",
@@ -2020,21 +2020,21 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video is an advertisement for a company called 4K Pro. It shows various graphics and logos with a dark background. There are no unusual activities in the video, but it does feature graphics with 4K in different formats. The graphics are in a 4K resolution, and they are of a high-quality image.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1702": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy's Got Talent (October 2017) _ FailArmy20.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video contains a man running with his dog, playing with a ball in the house, playing a game of fetch, playing with his dog in the living room, and jumping with his dog. The video also contains a man playing basketball, a young woman wearing a pink sweater, a man playing baseball, a woman holding a white bowl, a man holding a tennis racket, a young man holding a black tennis ball, a man holding a white soccer ball, and a man holding a white tennis ball. The video also contains a brown leather chair, a dark brown wooden table, a wooden chair, a white tennis racket, a small white dog, a black tennis ball, a green ball, a white and black ball, a black and white ball, and a white and black ball. The video contains a black and white ball, a black and white dog, a small black dog, and a black and white cat. The video does not contain any unusual activities.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1703": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy's Got Talent (October 2017) _ FailArmy21.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in this video.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1704": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy's Got Talent (October 2017) _ FailArmy22.mp4",
@@ -2083,7 +2083,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video contains unusual activities such as children wearing ballet costumes and dancing on a stage, a young girl dancing on a stage, a child dancing on a stage, a child standing on a stage, and young people practicing a dance routine. Additionally, there is a person wearing a white shirt, another wearing a black shirt, and a person wearing a blue shirt with white lettering.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1711": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy's Got Talent (October 2017) _ FailArmy29.mp4",
@@ -2104,7 +2104,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in this video. The video primarily shows a man wearing a white shirt and blue jeans holding a teddy bear, and later, a man wearing suspenders in a room. The captions also mention a man standing, dancing, and a man dancing. The video lasts for 12 seconds.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1714": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy's Got Talent (October 2017) _ FailArmy31.mp4",
@@ -2118,7 +2118,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video contains various activities such as dancing, standing, bathing, walking, sitting, and playing. There is also a man who is jumping into a bathtub in some frames. However, there is no unusual activity that I can observe. The video shows mostly typical bathroom activities.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1716": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy's Got Talent (October 2017) _ FailArmy34.mp4",
@@ -2146,7 +2146,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in the video. The child is playing with a toy and then sitting on the floor. It appears that the child is playing with the toy on the floor while sitting in the same spot.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1720": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy's Got Talent (October 2017) _ FailArmy38.mp4",
@@ -2160,7 +2160,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video does contain unusual activities, as there are several motorcycle stunts and people riding on motorcycles in the park. There are also people pushing the motorcycles on the ground, which is also not a common activity. Additionally, the motorcycles are on the ground, which adds to the unusual nature of the video.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1722": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy's Got Talent (October 2017) _ FailArmy40.mp4",
@@ -2202,7 +2202,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video is showing a bird sitting on a chair and then eating a snack. It also shows a woman holding a yellow bag and a white cat on the couch. There is also a parakeet sitting on a chair in the same room. It is possible to note a bird sitting on the couch, a black and white bird, a white cat on a black couch, and a bird perched on a rock. There is also a green parakeet with a blue body. The video is shot in a home and contains various objects and furniture such as a brown leather chair, a black and white cat, a black couch, a white cat on the couch, a small black couch, a green parakeet with a blue body, a parakeet on a stick, and a black cat.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1728": {
         "video_path": "./data/oops_dataset/oops_video/val/FailArmy's Got Talent (October 2017) _ FailArmy9.mp4",
@@ -2216,7 +2216,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There doesn't seem to be anything unusual in the video apart from the fact that it is a video game. There are some animated scenes with people and objects but they are not unusual in this case.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1730": {
         "video_path": "./data/oops_dataset/oops_video/val/FailFactory - Derpy Dogs (March 2019) _ FailArmy10.mp4",
@@ -2300,7 +2300,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video contains an unusual activity. In the 4th frame, a man is seen driving a car while smoking a cigar. It is an unusual activity as most people do not drive a car while smoking a cigar.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1742": {
         "video_path": "./data/oops_dataset/oops_video/val/FailFactory - Derpy Dogs (March 2019) _ FailArmy115.mp4",
@@ -2342,7 +2342,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in the video. It's just a series of short videos showing the pug dog sitting on a couch with different people, sometimes with a person sitting in the frame as well.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1748": {
         "video_path": "./data/oops_dataset/oops_video/val/FailFactory - Derpy Dogs (March 2019) _ FailArmy120.mp4",
@@ -2377,7 +2377,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are several unusual activities in this video, such as a yellow dog with a snow shovel playing in the snow, a dog standing in the snow, a brown dog with a snow shovel, and a dog with a shovel playing in the snow. Additionally, there are objects in the video such as a shovel, snow, and a fence. However, none of these activities are out of the ordinary for winter weather.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1753": {
         "video_path": "./data/oops_dataset/oops_video/val/FailFactory - Derpy Dogs (March 2019) _ FailArmy127.mp4",
@@ -2440,14 +2440,14 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video does not contain any unusual activities. However, I would like to point out a few things that are worth mentioning. The man is using a pink hairbrush to groom his pet. He is also wearing a yellow shirt. There is a black piece of foam on the ground, and there is a white sponge on top of the bathtub. The dog is very large and brown. Throughout the video, there is a white toy and a yellow rubber duck.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1762": {
         "video_path": "./data/oops_dataset/oops_video/val/FailFactory - Derpy Dogs (March 2019) _ FailArmy135.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in the video. It shows a young dog playing with a ball in a bathroom. It seems like the dog is just having fun, maybe because it is young and playful.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1763": {
         "video_path": "./data/oops_dataset/oops_video/val/FailFactory - Derpy Dogs (March 2019) _ FailArmy14.mp4",
@@ -2482,7 +2482,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video shows a variety of activities with different objects and people. Some of the activities include people standing on a street, a brown dog looking around, a dog sitting on the floor, a man wearing a khaki shirt and brown pants, a brown dog looking around, and a woman and a man sitting on a table. The objects included in the video are diverse and include khaki pants, sneakers, a brown dog, a white box, a cardboard box, and a plastic bag. In some frames, there are no particular objects, and the description simply describes the presence of various objects. So, while there is no one specific unusual activity in this video, there is a variety of actions and things that occur throughout the video.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1768": {
         "video_path": "./data/oops_dataset/oops_video/val/FailFactory - Derpy Dogs (March 2019) _ FailArmy144.mp4",
@@ -2496,7 +2496,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is no unusual activity in this video. It shows a man doing yoga on a beach, another man doing yoga in a portrait, and an image of a man doing yoga in a black and white photo. The last video shows a man holding a snowball while wearing a black and red striped shirt.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1770": {
         "video_path": "./data/oops_dataset/oops_video/val/FailFactory - Derpy Dogs (March 2019) _ FailArmy15.mp4",
@@ -2510,7 +2510,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in the video, but there are some interesting scenes that capture the moments when a black dog breaks glass in a home.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1772": {
         "video_path": "./data/oops_dataset/oops_video/val/FailFactory - Derpy Dogs (March 2019) _ FailArmy17.mp4",
@@ -2608,7 +2608,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are a lot of unusual things happening in this video. One of the most notable is the fact that the video is about a dog in a grassy yard, but the dog is not playing or walking. Instead, the dog is sitting on its hind legs with its front legs splayed out in the grass. Additionally, there is a black bear in one of the frames, which is also unusual. Finally, there are several instances where the video shows a person walking on the ground, but the ground has fallen away from the path, creating a small drop or slope.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1786": {
         "video_path": "./data/oops_dataset/oops_video/val/FailFactory - Derpy Dogs (March 2019) _ FailArmy36.mp4",
@@ -2650,7 +2650,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video does not contain any unusual activities. It shows a brown dog with a brown nose running and jumping. The dog is seen standing next to a pole, and it is surrounded by grass and dirt.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1792": {
         "video_path": "./data/oops_dataset/oops_video/val/FailFactory - Derpy Dogs (March 2019) _ FailArmy42.mp4",
@@ -2671,7 +2671,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video contains several unusual activities such as a dog standing on the ground with a mop on its head, a dog standing on the floor with a hat on its head, a man standing in a kitchen with a cat, a dog standing on the floor in a bathroom, a dog on the floor of a house, a man holding a dog, a dog on the floor in the kitchen, a dog in the living room, a dog and a cat in the same room, a dog in the bathroom, and a dog in a room. However, none of the unusual activities are harmful to humans or animals.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1795": {
         "video_path": "./data/oops_dataset/oops_video/val/FailFactory - Derpy Dogs (March 2019) _ FailArmy47.mp4",
@@ -2699,7 +2699,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video does contain some unusual activities, such as a bird chirping, a dog in a car, a cat lying down, and a person sitting in a car. But it's not uncommon to see pets or animals in certain settings, so it doesn't seem unusual to me.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1799": {
         "video_path": "./data/oops_dataset/oops_video/val/FailFactory - Derpy Dogs (March 2019) _ FailArmy52.mp4",
@@ -2713,7 +2713,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in this video. It is a video of a dog, possibly a German shepherd or labrador retriever, getting excited and knocking over an animal cage. It seems to be a pet, possibly a puppy. There are also several red and white items in the video, such as a red and white pillow, a red and white tray, and a red and white stool. The dog is also playing with a plastic toy and a red and white pink bow. Finally, there is a pink bowl on the kitchen counter in one scene.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1801": {
         "video_path": "./data/oops_dataset/oops_video/val/FailFactory - Derpy Dogs (March 2019) _ FailArmy54.mp4",
@@ -2727,7 +2727,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video shows a dog sitting under a table with papers and other objects scattered around it. It also shows a small dog sitting on a mat, a golden retriever eating food and a dog sitting on a floor. In one frame, the dog is seen lying on the floor with papers and papers scattered around it. In another frame, a golden retriever is eating a treat on the floor while a large brown dog is lying on the ground nearby.\n\nHowever, there are no unusual activities in the video. There are no signs of illness or injury. The dog appears to be in a comfortable position with no clear indication of any problem or discomfort. It is just a cute and relaxing video of a dog playing with papers and other objects.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1803": {
         "video_path": "./data/oops_dataset/oops_video/val/FailFactory - Derpy Dogs (March 2019) _ FailArmy56.mp4",
@@ -2748,7 +2748,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video contains a pug dog wearing a red scarf. At the beginning, it's alone lying on a floor. Then, we see a brown dog wearing a red scarf and lying on a floor again. In the middle of the video, a woman and the dog wearing a red scarf can be seen. Towards the end of the video, we see the same pug dog wearing a red scarf lying on a floor and then lying on the floor with another pug. Overall, it seems like the video is mainly composed of scenes of the pug dog lying on different surfaces, mainly floors, and sometimes with other animals or humans.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1806": {
         "video_path": "./data/oops_dataset/oops_video/val/FailFactory - Derpy Dogs (March 2019) _ FailArmy6.mp4",
@@ -2769,7 +2769,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is no unusual activity in this video. It is a simple video that shows a dog looking at a camera, then at a door, and then back at the camera again.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1809": {
         "video_path": "./data/oops_dataset/oops_video/val/FailFactory - Derpy Dogs (March 2019) _ FailArmy63.mp4",
@@ -2783,7 +2783,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video shows a brown and white dog walking around a kitchen with a white cat in a room. There is a wooden floor and a dark brown rug. The white cat is on the floor, and the dog is standing in front of it. The kitchen contains a wooden table with a tablecloth on it. The dog and cat are standing close to each other, but there is no interaction between them. The video is 56 seconds long and has several other objects, including a chair, a bookshelf, and a window. There are also some captions that give more details about the objects and their locations.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1811": {
         "video_path": "./data/oops_dataset/oops_video/val/FailFactory - Derpy Dogs (March 2019) _ FailArmy66.mp4",
@@ -2811,7 +2811,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video does not contain any unusual activities, but it does contain various dogs and a sandy beach.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1815": {
         "video_path": "./data/oops_dataset/oops_video/val/FailFactory - Derpy Dogs (March 2019) _ FailArmy70.mp4",
@@ -2874,7 +2874,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is an unusual activity in the video. A small white dog is riding on top of a pink teddy bear in one of the frames. This is a very cute sight, and it's not every day that you see a dog riding on top of a toy.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1824": {
         "video_path": "./data/oops_dataset/oops_video/val/FailFactory - Derpy Dogs (March 2019) _ FailArmy79.mp4",
@@ -2958,7 +2958,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in this video.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1836": {
         "video_path": "./data/oops_dataset/oops_video/val/FailFactory - Derpy Dogs (March 2019) _ FailArmy90.mp4",
@@ -2979,21 +2979,21 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in this video. However, it is interesting to see how different people interact with dogs, especially on the trail. It seems that one person is trying to get the dog to stand and stay on a leash while another person is sitting on the ground with a leash. It is always important to keep dogs safe and under control while hiking or on any outdoor adventures.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1839": {
         "video_path": "./data/oops_dataset/oops_video/val/FailFactory - Derpy Dogs (March 2019) _ FailArmy93.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video shows various scenic views with a focus on a river flowing through the mountains, and a forest with a river and a trail. The video contains objects such as an elephant, a man, a large tree, a bridge, and a bird, and a bird, and a tree. Additionally, the video captures the sky and the mountains, with a clear blue sky visible throughout. However, I cannot detect any unusual activities in the video.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1840": {
         "video_path": "./data/oops_dataset/oops_video/val/FailFactory - Derpy Dogs (March 2019) _ FailArmy94.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "Sure, there is a black and white dog sitting on a bed in the video. It seems that the dog is being petted by another dog. Additionally, there is a black and white cat sitting next to the dog on the bed, looking at the dog. There is also a black and white kitten and a brown dog present in the video. There are no unusual activities visible in the video, such as injuries or negative behavior from the pets.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1841": {
         "video_path": "./data/oops_dataset/oops_video/val/FailFactory - Derpy Dogs (March 2019) _ FailArmy95.mp4",
@@ -3014,7 +3014,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are several unusual activities in the video, including a dog sitting on top of a car, a dog sitting on a couch, a dog and a kangaroo sitting on a couch, a man sitting on a car in the snow, a man standing in the snow, a car in the snow, a man in a red shirt, a car parked in a parking lot, a man sitting on a bench, a dog sitting on the side of a truck, a man sitting in the car, and a man sitting in the back of a truck.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1844": {
         "video_path": "./data/oops_dataset/oops_video/val/FailFactory - No Pain, No Gain (Workout Fails)0.mp4",
@@ -3028,7 +3028,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video doesn't contain any unusual activities. The young man in the green shorts is doing normal workout exercises like standing on a yoga mat, doing sit-ups, and practicing a new exercise. He is also balancing on a yoga ball and doing push-ups on a ball. The video is shot in a green gym, and the man is exercising with a variety of equipment, including a pink kettlebell and a white rubber ball. The video lasts for approximately 10 seconds.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1846": {
         "video_path": "./data/oops_dataset/oops_video/val/FailFactory - No Pain, No Gain (Workout Fails)100.mp4",
@@ -3056,14 +3056,14 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video is of a boy and a girl playing with a soccer ball in a gym. They are seen playing soccer with a ball on a gym mat, and it is not unusual.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1850": {
         "video_path": "./data/oops_dataset/oops_video/val/FailFactory - No Pain, No Gain (Workout Fails)107.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is no unusual activity in the video. It depicts a football practice with a ball and a man running with a football.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1851": {
         "video_path": "./data/oops_dataset/oops_video/val/FailFactory - No Pain, No Gain (Workout Fails)11.mp4",
@@ -3077,21 +3077,21 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in the video. However, the video shows a man exercising with a barbell and a bench at the gym. He is working out with the barbell and exercising on the bench.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1853": {
         "video_path": "./data/oops_dataset/oops_video/val/FailFactory - No Pain, No Gain (Workout Fails)111.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video does not contain any unusual activities. It depicts a man working out in a gym and engaging in various exercises such as lifting weights and running on a treadmill. The scenes change over time and provide different views of the gym and its equipment.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1854": {
         "video_path": "./data/oops_dataset/oops_video/val/FailFactory - No Pain, No Gain (Workout Fails)112.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video contains several unusual activities. For instance, the boy is playing basketball in a gym, playing with a ball in a gym, doing squats with a medicine ball in the gym, and doing exercise with a medicine ball in the gym. It also contains a tennis player and a woman playing tennis in the gym, as well as a boy doing push-ups in a gym. Additionally, the video includes a man practicing golf swings in a gym and a girl doing push-ups in a gym. However, there are no outdoor activities in this video.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1855": {
         "video_path": "./data/oops_dataset/oops_video/val/FailFactory - No Pain, No Gain (Workout Fails)113.mp4",
@@ -3105,7 +3105,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in this video. The video shows a man lifting weights in a gym. He is wearing a red baseball cap and earphones. He is standing on a blue and green tiled floor. There are green plants and a black plastic bag in the background. He is holding a blue barbell with white knobs. The video captures him lifting the barbell multiple times with a red wheelchair in the background.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1857": {
         "video_path": "./data/oops_dataset/oops_video/val/FailFactory - No Pain, No Gain (Workout Fails)116.mp4",
@@ -3119,7 +3119,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video shows a variety of activities in a bathroom, including a man doing sit-ups and a woman putting a white container in the shower. There does not appear to be any unusual activities in the video.",
         "gt_failure": 0,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1859": {
         "video_path": "./data/oops_dataset/oops_video/val/FailFactory - No Pain, No Gain (Workout Fails)120.mp4",
@@ -3133,14 +3133,14 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is no unusual activity in this video. However, I would like to point out that there is a lot of movement in the video. The person in the black shirt is walking around and jumping on a trampoline while a person in black is dancing.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1861": {
         "video_path": "./data/oops_dataset/oops_video/val/FailFactory - No Pain, No Gain (Workout Fails)122.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "The video does not contain any unusual activities. It only shows a man exercising with a pair of parallel bars in a garage.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1862": {
         "video_path": "./data/oops_dataset/oops_video/val/FailFactory - No Pain, No Gain (Workout Fails)123.mp4",
@@ -3168,7 +3168,7 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There are no unusual activities in the video. The video contains a young man and a little boy playing with a ball in a gym.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1866": {
         "video_path": "./data/oops_dataset/oops_video/val/FailFactory - No Pain, No Gain (Workout Fails)13.mp4",
@@ -3287,13 +3287,13 @@
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "There is nothing unusual in this video. It depicts a man and a woman performing various actions in a room, such as practicing, dancing, and holding things. Some objects mentioned include a pair of scissors, a knife, a bottle of water, a table with a white tablecloth, a chair, a couch, a wooden chair, a couch with a white cushion, and a black computer.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     },
     "1883": {
         "video_path": "./data/oops_dataset/oops_video/val/FailFactory - No Pain, No Gain (Workout Fails)147.mp4",
         "prompt": "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only.",
         "videollama_ouput": "This video does contain an unusual activity as it shows a man and a woman doing some kind of handstand in a bathroom. However, there are other activities that appear to be normal in the video, such as a boy and a girl holding a toy, a girl and a man playing games, and a man and a woman dancing. Overall, the video seems to be a mix of unusual and normal activities.",
         "gt_failure": 1,
-        "pred_failure": 0
+        "pred_failure": "na"
     }
 }

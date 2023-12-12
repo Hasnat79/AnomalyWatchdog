@@ -85,8 +85,11 @@ filtered_res = filter_results(merged_res) # total videos after filtering: 4290
 calculate_precision_recall_f1(filtered_res)
 auc_roc_curve(filtered_res)
 
-# auc_roc_curve: 0.5311649750777898
-# precision: 0.64, recall: 0.66, f1_score: 0.65, support: None
+# 3083
+# precision: 0.64, recall: 0.9, f1_score: 0.75, support: None
+# tp: 1759
+# tn: 161
+# auc_roc_curve: 0.5227530753384477
 
 
 
