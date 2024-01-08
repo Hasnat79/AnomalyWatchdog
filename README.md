@@ -57,3 +57,9 @@ auc_roc_curve: 0.5311649750777898 -->
 |2.  "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only."| 8|3083/4711|1759|161 |0.64|0.9|0.75|**0.52**|
 |2.  "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only."| 16|2636/4711|1368|192 |0.63|0.83|0.72|0.51|
 |2.  "Let's look at this video frame by frame. Does this video contain any unusual activities? Please reply Yes or No only."|32|1317/4711|749|56 | 0.64| 0.89,|0.75|0.50|
+
+## Experiment table 3 (Instruction Bias Checker)
+| Prompt|fp | fn|Precision | Recall | F1| Auc-roc|
+| ---|--- |---  |---|--- |--- |---|
+|"Does the video contain only normal activities? Or does this video contain any unusual activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it only contains normal activities."|198|2583 (means for most of the videos: the model predicted as that is a  normal video)|0.62|0.11|0.19|0.5005|
+|“Does the video contain any unusual activities? Or does this video contain only normal activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it contains only normal activities.”| 1255 (means for most of the videos: the model predicted as that is an unusual video)|828|0.62|0.71|0.67|0.5098|

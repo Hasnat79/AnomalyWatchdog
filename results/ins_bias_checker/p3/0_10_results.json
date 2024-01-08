@@ -1,0 +1,9 @@
+{
+    "0": {
+        "video_path": "./data/oops_dataset/oops_video/val/34 Funny Kid Nominees - FailArmy Hall Of Fame (May 2017)0.mp4",
+        "prompt": "Does the video contain any unusual activities? Does this video contain any normal activities? Reply Yes if it contains only normal activities. Otherwise, reply No if it contains unusual activities.",
+        "videollama_ouput": "What is the nature of these activities? Are they man-made, random events or something else? \n\nThe nature of the activities in the video are not man-made, random events or something else. The activities are described as people dancing and playing a video game with a small boy on a black sofa in a room with a white couch. </s>",
+        "gt_failure": 1,
+        "pred_failure": 1
+    }
+}
