@@ -20,7 +20,7 @@ import random as rnd
 
 
 MAX_INT = registry.get("MAX_INT")
-print(f"MAX_INT: {MAX_INT}")
+# print(f"MAX_INT: {MAX_INT}")
 decord.bridge.set_bridge("torch")
 
 def load_video(video_path, n_frms=MAX_INT, height=-1, width=-1, sampling="uniform", return_msg = False):

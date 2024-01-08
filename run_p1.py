@@ -165,14 +165,7 @@ def videollama_output_generation(video_path,text_input):
 def load(path): 
     with open(path, 'r') as f: 
         return json.load(f)
-
-    
-
-
-
-
-
-
+        
 def main():
 
 
